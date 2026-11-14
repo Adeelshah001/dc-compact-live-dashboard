@@ -385,21 +385,42 @@
     // Buy links verified daily by check_buy_links.py (stored in c.links).
     // A store with status "unavailable" is hidden; "available"/"unknown"
     // links use the verified URL when present, else a constructed search
-    // URL. NOTE: PRH's /isbn/{isbn} route 404s for every title tested, so
-    // the Penguin fallback is the working PRH search URL, not /isbn/.
+    // URL. Fallbacks search by TITLE, not ISBN: store search engines
+    // match titles far more reliably. NOTE: PRH's /isbn/{isbn} route
+    // 404s for every title tested, so no Penguin URL ever uses /isbn/.
+
+    // Amazon storefront by visitor location: amazon.ca for visitors in
+    // Canada, amazon.com everywhere else. Timezone is the primary
+    // signal (browser language is often en-US even in Canada); an
+    // en-CA/fr-CA language is the fallback.
+    const CANADIAN_TIMEZONES = new Set(['America/Atikokan', 'America/Blanc-Sablon', 'America/Cambridge_Bay', 'America/Creston', 'America/Dawson', 'America/Dawson_Creek', 'America/Edmonton', 'America/Fort_Nelson', 'America/Glace_Bay', 'America/Goose_Bay', 'America/Halifax', 'America/Inuvik', 'America/Iqaluit', 'America/Moncton', 'America/Montreal', 'America/Nipigon', 'America/Pangnirtung', 'America/Rainy_River', 'America/Rankin_Inlet', 'America/Regina', 'America/Resolute', 'America/St_Johns', 'America/Swift_Current', 'America/Thunder_Bay', 'America/Toronto', 'America/Vancouver', 'America/Whitehorse', 'America/Winnipeg', 'America/Yellowknife', 'Canada/Atlantic', 'Canada/Central', 'Canada/Eastern', 'Canada/Mountain', 'Canada/Newfoundland', 'Canada/Pacific', 'Canada/Saskatchewan', 'Canada/Yukon']);
+    function isCanadianVisitor() {
+      try {
+        const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+        if (tz && CANADIAN_TIMEZONES.has(tz)) return true;
+      } catch (e) { /* Intl unavailable: fall through to language */ }
+      const lang = (navigator.language || '').toLowerCase();
+      return lang === 'en-ca' || lang === 'fr-ca' || lang.endsWith('-ca');
+    }
+    const AMAZON_HOST = isCanadianVisitor() ? 'www.amazon.ca' : 'www.amazon.com';
+    function localizeAmazon(url) {
+      return (url || '').replace(/www\.amazon\.(com|ca)/, AMAZON_HOST);
+    }
     function getBuyLinks(c) {
-      const q = c.isbn || encodeURIComponent(c.title + ' DC Compact');
+      const titleQ = encodeURIComponent(c.title);
       const fallback = {
-        amazon: `https://www.amazon.com/s?k=${q}`,
-        prh: c.isbn ? `https://www.penguinrandomhouse.com/search/${c.isbn}` : `https://www.penguinrandomhouse.com/search/${encodeURIComponent(c.title)}`,
-        indigo: `https://www.indigo.ca/en-ca/search?q=${q}`
+        amazon: `https://${AMAZON_HOST}/s?k=${titleQ}`,
+        prh: `https://www.penguinrandomhouse.com/search/${titleQ}`,
+        indigo: `https://www.indigo.ca/en-ca/search?q=${titleQ}`
       };
       const checked = c.links || {};
       const links = {};
       for (const store of ['amazon', 'prh', 'indigo']) {
         const entry = checked[store];
         if (entry && entry.status === 'unavailable') continue;
-        links[store] = (entry && entry.url) || fallback[store];
+        let url = (entry && entry.url) || fallback[store];
+        if (store === 'amazon') url = localizeAmazon(url);
+        links[store] = url;
       }
       return links;
     }

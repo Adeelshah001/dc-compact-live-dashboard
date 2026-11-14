@@ -25,8 +25,10 @@ Design principles (verified by probing, 2026-11-14):
   title tested (even with a verified-correct ISBN), so it cannot be used as
   a negative signal on its own. PRH is checked via the Random House
   reststop title API plus the /isbn/ page; "unavailable" requires BOTH to
-  404. The stored PRH URL is the working search URL unless a canonical
-  book page is discovered.
+  404. A previously verified canonical /books/ page is re-fetched each
+  run and kept while it still resolves to the book; an inconclusive
+  re-check never downgrades it. When no exact book page is known, the
+  stored PRH URL is a title search, not an ISBN search.
 * Indigo: indigo.ca is a Shopify storefront. Its public suggest API
   (/search/suggest.json) is queried three times per title: by ISBN, by
   title, and by title + "DC Compact". The ISBN query often returns zero
@@ -39,11 +41,15 @@ Design principles (verified by probing, 2026-11-14):
   candidates labelled "Compact". A title match in any query =
   "available". "Unavailable" requires BOTH title-shaped queries to
   return candidates with no match. Empty/failed queries = "unknown".
+  When no exact product page is found, the stored Indigo URL is a
+  title search, not an ISBN search.
 * Amazon: amazon.com serves an interstitial bot challenge to datacenter
   IPs, so plain requests cannot verify availability. Amazon checks record
   "unknown" when the challenge page is detected. The supported upgrade
   path is the Amazon Product Advertising API once an Associates account
-  is approved (requires 3 qualifying sales).
+  is approved (requires 3 qualifying sales). Stored Amazon URLs are
+  title searches on amazon.com; the frontend swaps in amazon.ca for
+  visitors in Canada.
 
 Stdlib only (no pip dependencies), so it runs unchanged in GitHub Actions.
 
@@ -179,10 +185,33 @@ _reststop_dead = False
 _reststop_failures = 0
 
 
-def check_prh(isbn, title):
+_CANONICAL_PRH_RE = re.compile(r"^https://www\.penguinrandomhouse\.com/books/\d+/")
+
+
+def check_prh(isbn, title, existing_url=None):
     global _reststop_dead, _reststop_failures
-    search_url = f"https://www.penguinrandomhouse.com/search/{isbn}"
+    search_url = (
+        "https://www.penguinrandomhouse.com/search/" + urllib.parse.quote(title)
+    )
+    existing_canonical = (
+        existing_url if existing_url and _CANONICAL_PRH_RE.match(existing_url) else None
+    )
     reststop_404 = False
+
+    # 0. Re-verify a previously verified canonical book page. While it
+    #    still resolves to this book, it stays the stored link.
+    if existing_canonical:
+        try:
+            status, _, body = fetch(existing_canonical, timeout=15)
+            head = title_tokens(title)[:1]
+            if status == 200 and (
+                isbn in (body or "") or (head and head[0] in (body or "").lower())
+            ):
+                return "available", existing_canonical, "canonical-verified"
+            if status == 404:
+                existing_canonical = None  # Page gone: fall through.
+        except Exception:
+            pass  # Inconclusive: keep it as the fallback below.
 
     # 1. Random House reststop title API (authoritative when reachable).
     if not _reststop_dead:
@@ -200,7 +229,11 @@ def check_prh(isbn, title):
                         r"https://www\.penguinrandomhouse\.com/books/\d+/[^\"'\s<]+",
                         body,
                     )
-                    return "available", m.group(0) if m else search_url, "reststop"
+                    if m:
+                        return "available", m.group(0), "reststop"
+                    if existing_canonical:
+                        return "available", existing_canonical, "canonical-kept"
+                    return "available", search_url, "reststop"
             elif status == 404:
                 reststop_404 = True
         except Exception:
@@ -223,6 +256,12 @@ def check_prh(isbn, title):
         isbn_404 = status == 404
     except Exception:
         pass
+
+    # A verified canonical page is stronger evidence than the two lookup
+    # routes (the /isbn/ route 404s even for books PRH definitely
+    # carries), so an inconclusive run never downgrades it.
+    if existing_canonical:
+        return "available", existing_canonical, "canonical-kept"
 
     # Only two independent negative signals may hide the link.
     if reststop_404 and isbn_404:
@@ -262,7 +301,7 @@ def _best_indigo_match(title, products):
 
 
 def check_indigo(isbn, title):
-    search_url = f"https://www.indigo.ca/en-ca/search?q={isbn}"
+    search_url = "https://www.indigo.ca/en-ca/search?q=" + urllib.parse.quote_plus(title)
     isbn_products = _indigo_suggest(isbn)
     time.sleep(0.4)
     title_products = _indigo_suggest(title)
@@ -295,8 +334,11 @@ AMAZON_CHALLENGE_MARKERS = (
 )
 
 
-def check_amazon(isbn):
-    url = f"https://www.amazon.com/s?k={isbn}"
+def check_amazon(isbn, title):
+    # Title search: store search engines match titles far more reliably
+    # than ISBNs. (The frontend swaps amazon.com for amazon.ca for
+    # visitors in Canada.)
+    url = "https://www.amazon.com/s?k=" + urllib.parse.quote_plus(title)
     try:
         status, _, body = fetch_with_retry(url, timeout=15)
     except Exception:
@@ -343,11 +385,12 @@ def main():
         isbn = (item.get("isbn") or "").strip()
         title = item.get("title", "")
         if isbn:
-            prh_status, prh_url, prh_reason = check_prh(isbn, title)
+            existing_prh = (item.get("links") or {}).get("prh", {}).get("url")
+            prh_status, prh_url, prh_reason = check_prh(isbn, title, existing_prh)
             time.sleep(args.delay)
             indigo_status, indigo_url, indigo_reason = check_indigo(isbn, title)
             time.sleep(args.delay)
-            amazon_status, amazon_url, amazon_reason = check_amazon(isbn)
+            amazon_status, amazon_url, amazon_reason = check_amazon(isbn, title)
             time.sleep(args.delay)
         else:
             prh_status, prh_url, prh_reason = "unknown", "", "no-isbn"
