@@ -4,15 +4,33 @@
     "title": "Nightwing: Leaping into the Light",
     "originalIssueYear": 2021,
     "originalIssueSpan": "2021",
-    "collectedIssues": "Nightwing (vol. 4) #78–83",
-    "compactReleaseDate": "2026-03-10",
+    "collectedIssues": "Nightwing (vol. 4) #78–88",
+    "compactReleaseDate": "2026-03-03",
     "status": "Released",
     "creators": "Tom Taylor, Bruno Redondo, Adriano Lucas",
     "genre": "Superhero",
-    "pageCount": 168,
-    "isbn": "9781799504146",
+    "pageCount": 296,
+    "isbn": "9781799507703",
     "description": "Dick Grayson steps up to defend Blüdhaven with a newfound inheritance from Alfred Pennyworth and a new canine companion named Haley (Bitewing).",
-    "era": "Modern (2018–Present)"
+    "era": "Modern (2018–Present)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799507703",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799507703",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/nightwing-leaping-into-the-light-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:58:08.888067Z"
   },
   {
     "id": "supergirl-woman-of-tomorrow",
@@ -27,7 +45,25 @@
     "pageCount": 216,
     "isbn": "9781779529305",
     "description": "Kara Zor-El joins an alien girl on an interstellar quest for vengeance, traveling across strange galaxies in this breathtaking epic fantasy space western.",
-    "era": "Modern (2018–Present)"
+    "era": "Modern (2018–Present)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529305",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529305",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/supergirl-woman-of-tomorrow-dc-compact-comics",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "static-season-one",
@@ -42,7 +78,25 @@
     "pageCount": 160,
     "isbn": "9781779529244",
     "description": "At Virgil Hawkins' first protest, tear gas mixed with an experimental compound gave dozens of people powers. Now Static must balance high school and protecting his city.",
-    "era": "Modern (2018–Present)"
+    "era": "Modern (2018–Present)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529244",
+        "status": "unknown",
+        "reason": "unrecognized-page"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529244",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/static-season-one-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "dceased",
@@ -57,7 +111,25 @@
     "pageCount": 240,
     "isbn": "9781779529251",
     "description": "A corrupted Anti-Life Equation spreads through digital screens turning billions into ravenous, rabid techno-zombies, threatening Earth and the Justice League.",
-    "era": "Modern (2018–Present)"
+    "era": "Modern (2018–Present)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529251",
+        "status": "unknown",
+        "reason": "unrecognized-page"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529251",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/dceased-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "far-sector",
@@ -72,7 +144,25 @@
     "pageCount": 312,
     "isbn": "9781779527356",
     "description": "Hugo Award-winning author N.K. Jemisin and Jamal Campbell introduce Sojourner 'Jo' Mullein, a rookie Green Lantern assigned to investigate the first murder in 500 years in the City Enduring.",
-    "era": "Modern (2018–Present)"
+    "era": "Modern (2018–Present)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779527356",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779527356",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/far-sector-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "mister-miracle",
@@ -87,7 +177,25 @@
     "pageCount": 320,
     "isbn": "9781799509813",
     "description": "Scott Free is the greatest escape artist in the universe, but can he escape suicide, domestic exhaustion, and an ongoing cosmic war against Apokolips? Darkseid Is.",
-    "era": "Modern (2011–2017)"
+    "era": "Modern (2011–2017)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799509813",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799509813",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/mister-miracle-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "dark-nights-metal",
@@ -102,7 +210,25 @@
     "pageCount": 216,
     "isbn": "9781799509752",
     "description": "The Dark Multiverse invades the prime DC Universe, unleashing the Batman Who Laughs and nightmare Batmen forged from Bruce Wayne's deepest fears.",
-    "era": "Modern (2011–2017)"
+    "era": "Modern (2011–2017)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799509752",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799509752",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/dark-nights-metal-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batman-white-knight",
@@ -117,7 +243,25 @@
     "pageCount": 232,
     "isbn": "9781799509745",
     "description": "In an alternate Gotham, Joker is cured of his insanity and assumes the identity of Jack Napier, waging a legal campaign against Batman's unchecked vigilante devastation.",
-    "era": "Modern (2011–2017)"
+    "era": "Modern (2011–2017)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799509745",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799509745",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batman-white-knight-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "wonder-woman-earth-one",
@@ -132,7 +276,25 @@
     "pageCount": 144,
     "isbn": "9781779527332",
     "description": "A radical rethinking of Diana of Themyscira's origin and golden age utopian mythology by Grant Morrison and Yanick Paquette.",
-    "era": "Modern (2011–2017)"
+    "era": "Modern (2011–2017)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779527332",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779527332",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/wonder-woman-earth-one-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batgirl-of-burnside",
@@ -147,7 +309,25 @@
     "pageCount": 160,
     "isbn": "9781799509738",
     "description": "Barbara Gordon relocates to Burnside, Gotham's trendiest neighborhood, building a fresh DIY costume, social media life, and crime-fighting crew.",
-    "era": "Modern (2011–2017)"
+    "era": "Modern (2011–2017)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799509738",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799509738",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batgirl-of-burnside-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "injustice-gods-among-us-year-one",
@@ -162,7 +342,25 @@
     "pageCount": 304,
     "isbn": "9781799509769",
     "description": "After the Joker tricks Superman into destroying Metropolis and Lois Lane, Superman establishes a ruthless global dictatorship, igniting war against Batman's resistance.",
-    "era": "Modern (2011–2017)"
+    "era": "Modern (2011–2017)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799509769",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799509769",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/injustice-gods-among-us-year-one-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "harley-quinn-wild-at-heart",
@@ -177,7 +375,25 @@
     "pageCount": 224,
     "isbn": "9781779529329",
     "description": "Harley leaves the Joker and Gotham behind to start fresh in Coney Island, managing an apartment building, roller derby bouts, and assassin bounties.",
-    "era": "Modern (2011–2017)"
+    "era": "Modern (2011–2017)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529329",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529329",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/harley-quinn-wild-at-heart-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "justice-league-origin",
@@ -192,7 +408,25 @@
     "pageCount": 192,
     "isbn": "9781799509806",
     "description": "At the dawn of the superhero age, Batman, Superman, Wonder Woman, Green Lantern, The Flash, Aquaman, and Cyborg unite for the first time to repel Darkseid's invasion.",
-    "era": "Modern (2011–2017)"
+    "era": "Modern (2011–2017)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799509806",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799509806",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/justice-league-origin-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "wonder-woman-blood-and-guts",
@@ -207,7 +441,25 @@
     "pageCount": 160,
     "isbn": "9781779529299",
     "description": "Zeus disappears and the Olympian gods turn on one another in a bloodthirsty civil war, dragging Diana into dark divine family intrigue.",
-    "era": "Modern (2011–2017)"
+    "era": "Modern (2011–2017)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529299",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529299",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/wonder-woman-blood-and-guts-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batman-court-of-owls",
@@ -222,7 +474,25 @@
     "pageCount": 304,
     "isbn": "9781779527271",
     "description": "Batman uncovers a centuries-old secret cabal ruling Gotham from the shadows with undead assassins known as Talons.",
-    "era": "Modern (2011–2017)"
+    "era": "Modern (2011–2017)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779527271",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779527271",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batman-the-court-of-owls-saga-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "american-vampire-book-one",
@@ -237,7 +507,25 @@
     "pageCount": 264,
     "isbn": "9781779527325",
     "description": "Traces the evolution of an American vampire species fueled by sunlight and rattlesnake venom, featuring Skinner Sweet and Pearl Jones across American history.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779527325",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779527325",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/american-vampire-book-one-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "the-flash-rebirth",
@@ -252,7 +540,25 @@
     "pageCount": 168,
     "isbn": "9781799504191",
     "description": "Barry Allen returns from the Speed Force, but his resurrection unleashes a sinister corrupting frequency engineered by Professor Zoom.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799504191",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799504191",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/the-flash-rebirth-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batwoman-elegy",
@@ -267,7 +573,25 @@
     "pageCount": 192,
     "isbn": "9781779529268",
     "description": "Kate Kane battles the Religion of Crime led by the crazed Alice, paired with gorgeous panel architecture and origin revelations.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529268",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529268",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batwoman-elegy-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "harley-quinn-gotham-city-sirens",
@@ -282,7 +606,25 @@
     "pageCount": 176,
     "isbn": "9781779527295",
     "description": "Catwoman, Poison Ivy, and Harley Quinn move in together to protect each other and run Gotham their own chaotic way.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779527295",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779527295",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/harley-quinn-the-gotham-city-sirens-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "superman-brainiac",
@@ -297,7 +639,25 @@
     "pageCount": 160,
     "isbn": "9781799513810",
     "description": "Superman faces the true, terrifying extraterrestrial cyborg Brainiac who bottled the Kryptonian city of Kandor.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799513810",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799513810",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/superman-brainiac-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "joker",
@@ -312,7 +672,25 @@
     "pageCount": 144,
     "isbn": "9781779527318",
     "description": "Told through the perspective of henchman Jonny Frost, this gritty noir follows the Joker as he reclaims Gotham's criminal underworld fresh out of Arkham.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779527318",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779527318",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/joker-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "green-arrow-year-one",
@@ -327,7 +705,25 @@
     "pageCount": 160,
     "isbn": "9781799504115",
     "description": "Billionaire playboy Oliver Queen is betrayed and stranded on a deserted island, forcing him to master archery to survive and liberate its captive workers.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799504115",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799504115",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/green-arrow-year-one-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batman-and-son",
@@ -342,7 +738,25 @@
     "pageCount": 200,
     "isbn": "9781799509714",
     "description": "Talia al Ghul introduces Bruce Wayne to the lethal son he never knew he fathered: Damian Wayne, a lethal prodigy raised by the League of Assassins.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799509714",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799509714",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batman-son-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batman-under-the-red-hood",
@@ -357,7 +771,25 @@
     "pageCount": 304,
     "isbn": "9781799504139",
     "description": "A mysterious vigilante named the Red Hood assumes command of Gotham's drug trade, revealing a haunting connection to Batman's greatest failure: Jason Todd.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799504139",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799504139",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batman-under-the-red-hood-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "all-star-superman",
@@ -372,7 +804,25 @@
     "pageCount": 304,
     "isbn": "9781779527264",
     "description": "Dying of solar cellular decay, the Man of Steel sets out to accomplish twelve heroic labours to secure Earth's future before his time runs out.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779527264",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779527264",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/all-star-superman-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "superman-secret-identity",
@@ -387,7 +837,25 @@
     "pageCount": 208,
     "isbn": "9781799513827",
     "description": "In a real world where Superman is just a comic book character, a Kansas boy named Clark Kent suddenly discovers he actually possesses the Man of Steel's powers.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799513827",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799513827",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/superman-secret-identity-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "catwoman-when-in-rome",
@@ -402,7 +870,25 @@
     "pageCount": 160,
     "isbn": "9781799513780",
     "description": "Selina Kyle and the Riddler journey to Italy to unlock the secret of her mobster parentage during the events of The Long Halloween and Dark Victory.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799513780",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799513780",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/catwoman-when-in-rome-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batman-harley-and-ivy",
@@ -417,7 +903,25 @@
     "pageCount": 136,
     "isbn": "9781799509783",
     "description": "Classic animated adventures with Gotham's favorite dynamic duo of villainy pulling off hilarious capers across Gotham and Hollywood.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799509783",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799509783",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batman-harley-and-ivy-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "green-lantern-rebirth",
@@ -432,7 +936,25 @@
     "pageCount": 176,
     "isbn": "9781799513704",
     "description": "Hal Jordan returns to the mantle of Green Lantern as the fear entity Parallax is exposed, revitalizing the Green Lantern mythos for a generation.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799513704",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799513704",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/green-lantern-rebirth-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "we3",
@@ -447,7 +969,25 @@
     "pageCount": 144,
     "isbn": "9781779529367",
     "description": "Three weaponized cybernetic household pets—a dog, cat, and rabbit—escape a clandestine military lab in search of 'home'.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529367",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529367",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/we3-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "dc-the-new-frontier",
@@ -462,7 +1002,25 @@
     "pageCount": 408,
     "isbn": "9781779529282",
     "description": "Darwyn Cooke's masterwork bridges the Golden and Silver Ages through the lens of Cold War paranoia, aviation, civil rights, and cosmic wonder.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529282",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529282",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/dc-the-new-frontier-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batgirl-year-one",
@@ -477,7 +1035,25 @@
     "pageCount": 224,
     "isbn": "9781799513759",
     "description": "Barbara Gordon strives to become a hero despite the protective objections of her father, Commissioner James Gordon, and the Dark Knight himself.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799513759",
+        "status": "unknown",
+        "reason": "unrecognized-page"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799513759",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batgirl-year-one-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "superman-red-son",
@@ -492,7 +1068,25 @@
     "pageCount": 168,
     "isbn": "9781799504177",
     "description": "What if baby Kal-El's rocket ship had landed in the Soviet Union instead of Kansas? Superman becomes the champion of the common worker and Soviet state leader.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799504177",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799504177",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/superman-red-son-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "superman-batman-book-one",
@@ -507,7 +1101,25 @@
     "pageCount": 336,
     "isbn": "9781779529336",
     "description": "President Lex Luthor places a billion-dollar bounty on the World's Finest, followed by the dramatic arrival of Supergirl on Earth.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529336",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529336",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/superman-batman-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "superman-birthright",
@@ -522,7 +1134,25 @@
     "pageCount": 304,
     "isbn": "9781779529275",
     "description": "A 21st-century origin story tracking Clark Kent's travels as an international photojournalist to his debut in Metropolis fighting Lex Luthor's false-flag invasion.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529275",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529275",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/superman-birthright-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "gotham-central",
@@ -537,7 +1167,25 @@
     "pageCount": 240,
     "isbn": "9781799504108",
     "description": "Ground-level detectives of the Gotham City Police Department work the Major Crimes Unit, dealing with rogue supervillains without Batman's superpowers.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799504108",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799504108",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/gotham-central-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "y-the-last-man-book-one",
@@ -552,7 +1200,25 @@
     "pageCount": 256,
     "isbn": "9781779529350",
     "description": "A plague spontaneously wipes out every living mammal with a Y chromosome, except for an amateur escape artist named Yorick Brown and his pet monkey Ampersand.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529350",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529350",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/y-the-last-man-unmanned-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batman-hush",
@@ -567,7 +1233,25 @@
     "pageCount": 320,
     "isbn": "9781779527240",
     "description": "A mysterious stalker with bandaged face manipulates Batman's entire rogue gallery in a calculated psychological campaign to ruin his life.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779527240",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779527240",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batman-hush-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "superboys-legion",
@@ -582,7 +1266,25 @@
     "pageCount": 112,
     "isbn": "9781799509721",
     "description": "In an alternate 31st Century Elseworlds, Kal-El's capsule is recovered in the 30th Century, inspiring him to form the Legion of Super-Heroes.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799509721",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799509721",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/en-ca/search?q=9781799509721",
+        "status": "unavailable",
+        "reason": "no-title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "catwoman-trail-of-the-catwoman",
@@ -597,7 +1299,25 @@
     "pageCount": 336,
     "isbn": "9781779527349",
     "description": "Slam Bradley investigates Selina Kyle's faked death, leading to her iconic leather catsuit redesign and defender-of-the-East-End reinvention.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779527349",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779527349",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/catwoman-trail-of-the-catwoman-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "jla-tower-of-babel",
@@ -612,7 +1332,25 @@
     "pageCount": 144,
     "isbn": "9781799513728",
     "description": "Ra's al Ghul steals Batman's secret tactical contingency plans designed to neutralize every member of the Justice League if they went rogue.",
-    "era": "Modern (2000–2010)"
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799513728",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799513728",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/jla-the-tower-of-babel-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "100-bullets-first-shot",
@@ -627,7 +1365,25 @@
     "pageCount": 128,
     "isbn": "9781799513735",
     "description": "Agent Graves approaches wronged people with an attaché case containing an untraceable gun, 100 untraceable bullets, and irrefutable proof of who ruined their lives.",
-    "era": "Dark Age / 90s (1990–1999)"
+    "era": "Dark Age / 90s (1990–1999)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799513735",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799513735",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/100-bullets-first-shot-last-call-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "the-authority-book-one",
@@ -642,7 +1398,25 @@
     "pageCount": 296,
     "isbn": "9781779529343",
     "description": "The definitive widescreen superhero epic following Jenny Sparks, Midnighter, Apollo, and team enforcing planetary order against cosmic threats.",
-    "era": "Dark Age / 90s (1990–1999)"
+    "era": "Dark Age / 90s (1990–1999)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529343",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529343",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/the-authority-book-one-new-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "superman-adventures-man-of-tomorrow",
@@ -657,7 +1431,25 @@
     "pageCount": 152,
     "isbn": "9781799513773",
     "description": "Classic all-ages adventures set in the timeless DC Animated Universe (Superman: The Animated Series).",
-    "era": "Dark Age / 90s (1990–1999)"
+    "era": "Dark Age / 90s (1990–1999)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799513773",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799513773",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/superman-man-of-tomorrow-dc-compact-comics-adventures",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batman-the-long-halloween",
@@ -672,7 +1464,25 @@
     "pageCount": 384,
     "isbn": "9781779529312",
     "description": "Over the course of a full year, Batman, Jim Gordon, and Harvey Dent hunt a serial killer named Holiday who only executes targets on holiday dates.",
-    "era": "Dark Age / 90s (1990–1999)"
+    "era": "Dark Age / 90s (1990–1999)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529312",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529312",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batman-the-long-halloween-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "kingdom-come",
@@ -687,7 +1497,25 @@
     "pageCount": 232,
     "isbn": "9781779529237",
     "description": "In a future where reckless new vigilantes cause catastrophic casualties, Superman steps out of exile to rebuild the old guard in this painted masterpiece.",
-    "era": "Dark Age / 90s (1990–1999)"
+    "era": "Dark Age / 90s (1990–1999)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529237",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529237",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/kingdom-come-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "preacher-gone-to-texas",
@@ -702,7 +1530,25 @@
     "pageCount": 200,
     "isbn": "9781799513742",
     "description": "Texas preacher Jesse Custer is bonded with a divine runaway entity giving him the Word of God, embarking across America to literally find the Almighty.",
-    "era": "Dark Age / 90s (1990–1999)"
+    "era": "Dark Age / 90s (1990–1999)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799513742",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799513742",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/preacher-gone-to-texas-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "the-batman-adventures-dark-knight",
@@ -717,7 +1563,25 @@
     "pageCount": 160,
     "isbn": "9781799513766",
     "description": "Pure Batman: The Animated Series comic magic, featuring the Joker, Catwoman, Penguin, and the timeless Bruce Timm art style.",
-    "era": "Dark Age / 90s (1990–1999)"
+    "era": "Dark Age / 90s (1990–1999)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799513766",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799513766",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batman-the-dark-knight-dc-compact-comics-adventures",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "john-constantine-hellblazer-dangerous-habits",
@@ -732,7 +1596,25 @@
     "pageCount": 160,
     "isbn": "9781799513797",
     "description": "Dying of terminal lung cancer, street occultist John Constantine pulls off his greatest, most brazen con against the Three Lords of Hell.",
-    "era": "Dark Age / 90s (1990–1999)"
+    "era": "Dark Age / 90s (1990–1999)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799513797",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799513797",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/john-constantine-hellblazer-dangerous-habits-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batman-gotham-by-gaslight",
@@ -747,7 +1629,25 @@
     "pageCount": 112,
     "isbn": "9781799504122",
     "description": "DC's very first Elseworlds tale pits an 1889 Victorian Batman against Jack the Ripper after the notorious killer arrives in Gotham City.",
-    "era": "Copper Age (1984–1989)"
+    "era": "Copper Age (1984–1989)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799504122",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799504122",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batman-gotham-by-gaslight-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batman-arkham-asylum",
@@ -762,7 +1662,25 @@
     "pageCount": 216,
     "isbn": "9781779529374",
     "description": "Inmates seize control of Arkham Asylum on April Fools' Day, demanding Batman enter alone to face his deepest psychological horrors and Dave McKean's surrealist art.",
-    "era": "Copper Age (1984–1989)"
+    "era": "Copper Age (1984–1989)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529374",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529374",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batman-arkham-asylum-dc-compact-comics",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "superman-the-man-of-steel",
@@ -777,7 +1695,25 @@
     "pageCount": 152,
     "isbn": "9781799513803",
     "description": "John Byrne's landmark Post-Crisis reinvention of Superman, establishing the modern foundation of Krypton, Clark Kent's humanity, and corporate Lex Luthor.",
-    "era": "Copper Age (1984–1989)"
+    "era": "Copper Age (1984–1989)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799513803",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799513803",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/superman-man-of-steel-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "batman-the-dark-knight-returns",
@@ -792,7 +1728,25 @@
     "pageCount": 208,
     "isbn": "9781799504184",
     "description": "A 55-year-old Bruce Wayne comes out of retirement in a crumbling, crime-ridden Gotham, battling the Mutants, the Joker, and ultimately the government's pawn: Superman.",
-    "era": "Copper Age (1984–1989)"
+    "era": "Copper Age (1984–1989)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799504184",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799504184",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batman-the-dark-knight-returns-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "watchmen",
@@ -807,7 +1761,25 @@
     "pageCount": 416,
     "isbn": "9781779527257",
     "description": "The murder of the Comedian unravels a wide-ranging conspiracy at the height of the Cold War, deconstructing the very concept of superheroes.",
-    "era": "Copper Age (1984–1989)"
+    "era": "Copper Age (1984–1989)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779527257",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779527257",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/watchmen-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "crisis-on-infinite-earths",
@@ -822,7 +1794,25 @@
     "pageCount": 368,
     "isbn": "9781799509790",
     "description": "The Anti-Monitor sweeps across the multiverse consuming parallel Earths in antimatter, forcing heroes and villains from every reality to make the ultimate sacrifice.",
-    "era": "Copper Age (1984–1989)"
+    "era": "Copper Age (1984–1989)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799509790",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799509790",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/crisis-on-infinite-earths-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "swamp-thing-anatomy-lesson",
@@ -837,7 +1827,25 @@
     "pageCount": 208,
     "isbn": "9781799509776",
     "description": "Alan Moore shatters Alec Holland's identity: he was never a human turned into a monster, but a sentient plant that believed it was a man. An immortal gothic horror revolution.",
-    "era": "Copper Age (1984–1989)"
+    "era": "Copper Age (1984–1989)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781799509776",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781799509776",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/swamp-thing-the-anatomy-lesson-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   },
   {
     "id": "v-for-vendetta",
@@ -852,6 +1860,24 @@
     "pageCount": 296,
     "isbn": "9781779529381",
     "description": "In a totalitarian post-nuclear Britain ruled by the fascist Norsefire regime, a masked anarchist named V wages an intricate theatrical campaign of revolution.",
-    "era": "Bronze Age (1970–1983)"
+    "era": "Bronze Age (1970–1983)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=9781779529381",
+        "status": "unknown",
+        "reason": "bot-challenge"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/search/9781779529381",
+        "status": "unknown",
+        "reason": "unverifiable"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/v-for-vendetta-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-14T22:24:43.484885Z"
   }
 ]
