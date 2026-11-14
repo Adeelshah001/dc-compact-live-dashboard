@@ -382,13 +382,26 @@
       filterTitles();
     }
 
+    // Buy links verified daily by check_buy_links.py (stored in c.links).
+    // A store with status "unavailable" is hidden; "available"/"unknown"
+    // links use the verified URL when present, else a constructed search
+    // URL. NOTE: PRH's /isbn/{isbn} route 404s for every title tested, so
+    // the Penguin fallback is the working PRH search URL, not /isbn/.
     function getBuyLinks(c) {
       const q = c.isbn || encodeURIComponent(c.title + ' DC Compact');
-      return {
+      const fallback = {
         amazon: `https://www.amazon.com/s?k=${q}`,
-        prh: c.isbn ? `https://www.penguinrandomhouse.com/isbn/${c.isbn}` : `https://www.penguinrandomhouse.com/search/${encodeURIComponent(c.title)}`,
+        prh: c.isbn ? `https://www.penguinrandomhouse.com/search/${c.isbn}` : `https://www.penguinrandomhouse.com/search/${encodeURIComponent(c.title)}`,
         indigo: `https://www.indigo.ca/en-ca/search?q=${q}`
       };
+      const checked = c.links || {};
+      const links = {};
+      for (const store of ['amazon', 'prh', 'indigo']) {
+        const entry = checked[store];
+        if (entry && entry.status === 'unavailable') continue;
+        links[store] = (entry && entry.url) || fallback[store];
+      }
+      return links;
     }
 
     function setSpaceView(view) {
@@ -443,6 +456,12 @@
       }
       container.innerHTML = items.map(c => {
         const links = getBuyLinks(c);
+        const buyBtns = [
+          links.amazon ? `<a href="${links.amazon}" target="_blank" rel="noopener noreferrer" class="px-2.5 py-1 rounded-lg bg-amber-500/15 hover:bg-amber-500/25 border border-amber-500/30 text-amber-300 text-[11px] font-medium transition">Amazon</a>` : '',
+          links.prh ? `<a href="${links.prh}" target="_blank" rel="noopener noreferrer" class="px-2.5 py-1 rounded-lg bg-orange-500/15 hover:bg-orange-500/25 border border-orange-500/30 text-orange-300 text-[11px] font-medium transition">Penguin</a>` : '',
+          links.indigo ? `<a href="${links.indigo}" target="_blank" rel="noopener noreferrer" class="px-2.5 py-1 rounded-lg bg-indigo-500/15 hover:bg-indigo-500/25 border border-indigo-500/30 text-indigo-300 text-[11px] font-medium transition">Indigo</a>` : ''
+        ].filter(Boolean).join('');
+        const buyRow = buyBtns ? `<div class="mt-4 pt-3 border-t border-white/5 flex items-center gap-1.5" onclick="event.stopPropagation()"><span class="text-[10px] uppercase font-bold text-slate-400 mr-0.5">Buy:</span>${buyBtns}</div>` : '';
         return `
         <div onclick="showDetail('${c.id}')" class="space-glass p-5 rounded-3xl hover:shadow-xl hover:shadow-blue-500/5 transition cursor-pointer flex flex-col justify-between group">
           <div>
@@ -468,13 +487,7 @@
           </div>
 
           <div>
-            <!-- Buy Links -->
-            <div class="mt-4 pt-3 border-t border-white/5 flex items-center gap-1.5" onclick="event.stopPropagation()">
-              <span class="text-[10px] uppercase font-bold text-slate-400 mr-0.5">Buy:</span>
-              <a href="${links.amazon}" target="_blank" rel="noopener noreferrer" class="px-2.5 py-1 rounded-lg bg-amber-500/15 hover:bg-amber-500/25 border border-amber-500/30 text-amber-300 text-[11px] font-medium transition">Amazon</a>
-              <a href="${links.prh}" target="_blank" rel="noopener noreferrer" class="px-2.5 py-1 rounded-lg bg-orange-500/15 hover:bg-orange-500/25 border border-orange-500/30 text-orange-300 text-[11px] font-medium transition">Penguin</a>
-              <a href="${links.indigo}" target="_blank" rel="noopener noreferrer" class="px-2.5 py-1 rounded-lg bg-indigo-500/15 hover:bg-indigo-500/25 border border-indigo-500/30 text-indigo-300 text-[11px] font-medium transition">Indigo</a>
-            </div>
+            ${buyRow}
 
             <div class="pt-2 mt-2 border-t border-white/5 flex items-center justify-between text-[11px] text-slate-400">
               <span class="flex items-center gap-1">
@@ -497,6 +510,12 @@
       }
       container.innerHTML = items.map(c => {
         const links = getBuyLinks(c);
+        const buyLinks = [
+          links.amazon ? `<a href="${links.amazon}" target="_blank" rel="noopener noreferrer" class="text-amber-300 hover:underline font-medium">Amazon ↗</a>` : '',
+          links.prh ? `<a href="${links.prh}" target="_blank" rel="noopener noreferrer" class="text-orange-300 hover:underline font-medium">Penguin House ↗</a>` : '',
+          links.indigo ? `<a href="${links.indigo}" target="_blank" rel="noopener noreferrer" class="text-indigo-300 hover:underline font-medium">Indigo ↗</a>` : ''
+        ].filter(Boolean).join('<span class="text-slate-600">•</span>');
+        const buyRow = buyLinks ? `<div class="mt-3 pt-2 border-t border-white/5 flex items-center gap-3 text-xs" onclick="event.stopPropagation()"><span class="text-[10px] uppercase font-bold text-slate-400">Buy:</span>${buyLinks}</div>` : '';
         return `
         <div onclick="showDetail('${c.id}')" class="relative group cursor-pointer">
           <div class="absolute -left-[31px] top-4 w-4 h-4 rounded-full bg-blue-600 border-4 border-[#0d0f14] group-hover:scale-125 transition"></div>
@@ -512,14 +531,7 @@
             <div class="text-xs text-slate-300 mt-1 font-mono text-[11px]">Collects: ${c.collectedIssues}</div>
             <p class="text-xs text-slate-400 mt-2">${c.creators} • <span class="text-blue-300">${c.genre}</span></p>
 
-            <div class="mt-3 pt-2 border-t border-white/5 flex items-center gap-3 text-xs" onclick="event.stopPropagation()">
-              <span class="text-[10px] uppercase font-bold text-slate-400">Buy:</span>
-              <a href="${links.amazon}" target="_blank" rel="noopener noreferrer" class="text-amber-300 hover:underline font-medium">Amazon ↗</a>
-              <span class="text-slate-600">•</span>
-              <a href="${links.prh}" target="_blank" rel="noopener noreferrer" class="text-orange-300 hover:underline font-medium">Penguin House ↗</a>
-              <span class="text-slate-600">•</span>
-              <a href="${links.indigo}" target="_blank" rel="noopener noreferrer" class="text-indigo-300 hover:underline font-medium">Indigo ↗</a>
-            </div>
+            ${buyRow}
           </div>
         </div>
       `;
@@ -530,6 +542,14 @@
       const c = comicsData.find(item => item.id === id);
       if (!c) return;
       const links = getBuyLinks(c);
+      const buyBtns = [
+        links.amazon ? `<a href="${links.amazon}" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[120px] text-center py-2 px-3 rounded-xl bg-amber-500/20 hover:bg-amber-500/30 border border-amber-500/40 text-amber-200 text-xs font-semibold transition">Amazon ↗</a>` : '',
+        links.prh ? `<a href="${links.prh}" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[120px] text-center py-2 px-3 rounded-xl bg-orange-500/20 hover:bg-orange-500/30 border border-orange-500/40 text-orange-200 text-xs font-semibold transition">Penguin Random House ↗</a>` : '',
+        links.indigo ? `<a href="${links.indigo}" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[120px] text-center py-2 px-3 rounded-xl bg-indigo-500/20 hover:bg-indigo-500/30 border border-indigo-500/40 text-indigo-200 text-xs font-semibold transition">Indigo (Chapters) ↗</a>` : ''
+      ].filter(Boolean).join('');
+      const buySection = buyBtns
+        ? `<div class="flex flex-wrap gap-2 pt-1">${buyBtns}</div>`
+        : `<div class="text-xs text-slate-500 pt-1">No purchase links currently verified for this title — check back soon.</div>`;
       const modal = document.getElementById('detailModal');
       const content = document.getElementById('modalContent');
       content.innerHTML = `
@@ -558,11 +578,7 @@
           <!-- Where to Buy Links -->
           <div class="p-3.5 rounded-2xl bg-slate-900/90 border border-white/10 space-y-2">
             <div class="text-xs uppercase font-bold text-slate-400">Where to Buy ($9.99):</div>
-            <div class="flex flex-wrap gap-2 pt-1">
-              <a href="${links.amazon}" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[120px] text-center py-2 px-3 rounded-xl bg-amber-500/20 hover:bg-amber-500/30 border border-amber-500/40 text-amber-200 text-xs font-semibold transition">Amazon ↗</a>
-              <a href="${links.prh}" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[120px] text-center py-2 px-3 rounded-xl bg-orange-500/20 hover:bg-orange-500/30 border border-orange-500/40 text-orange-200 text-xs font-semibold transition">Penguin Random House ↗</a>
-              <a href="${links.indigo}" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[120px] text-center py-2 px-3 rounded-xl bg-indigo-500/20 hover:bg-indigo-500/30 border border-indigo-500/40 text-indigo-200 text-xs font-semibold transition">Indigo (Chapters) ↗</a>
-            </div>
+            ${buySection}
           </div>
 
           <p class="text-xs text-slate-300 leading-relaxed">${c.description}</p>

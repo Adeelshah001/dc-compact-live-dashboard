@@ -16,10 +16,10 @@ A clean, live dashboard cataloging all released and upcoming **DC Compact Comics
 ## Features
 
 - **Inside Issue Chronology:** Strictly sorted from newest (2021) to oldest (1982) by the original publication year of the inside material.
-- **Where to Buy:** Direct purchase links for every book to **Amazon**, **Penguin Random House**, and **Indigo (Chapters)** via verified ISBNs.
+- **Where to Buy:** Purchase links for every book to **Amazon**, **Penguin Random House**, and **Indigo (Chapters)**, verified daily — a store's link is hidden when the book is confirmed unavailable there (see `check_buy_links.py`).
 - **Dual Views:** Switch between **Card Matrix** (grid) and **Chronological Stream** (timeline).
 - **Instant Search & Era Filters:** Real-time search across titles, creators, and collected issues, with era toggles (Modern, 90s, Copper/Bronze).
-- **Daily Automated Updates:** Daily GitHub Actions workflow checks for new solicitations and automatically triggers Vercel redeployments.
+- **Daily Automated Updates:** Daily GitHub Actions workflow checks for new solicitations, verifies every buy link, and automatically triggers Vercel redeployments.
 
 ---
 
@@ -28,7 +28,7 @@ A clean, live dashboard cataloging all released and upcoming **DC Compact Comics
 - **Frontend:** HTML5, Tailwind CSS, Vanilla JavaScript (zero build step)
 - **API:** Vercel Serverless Function (`/api/comics`)
 - **Automation:** GitHub Actions cron (`.github/workflows/update-solicitations.yml`)
-- **Scraper:** Python 3 (`update_compact_comics.py`)
+- **Catalog & Link Checks:** Python 3, stdlib only (`update_compact_comics.py`, `check_buy_links.py`)
 
 ---
 
