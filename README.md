@@ -33,5 +33,5 @@ A clean, live dashboard cataloging all released and upcoming **DC Compact Comics
 ---
 
 <p align="center">
-  <sub>Made by Rohail &amp; Adeel with Google Antigravity</sub>
+  <sub>Made by Rohail &amp; Adeel</sub>
 </p>
