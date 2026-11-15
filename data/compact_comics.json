@@ -15,7 +15,7 @@
     "era": "Modern (2018–Present)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Nightwing%3A+Leaping+into+the+Light",
+        "url": "https://www.amazon.com/s?k=Nightwing%3A+Leaping+into+the+Light+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -30,7 +30,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "supergirl-woman-of-tomorrow",
@@ -48,9 +48,9 @@
     "era": "Modern (2018–Present)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Supergirl%3A+Woman+of+Tomorrow",
+        "url": "https://www.amazon.com/s?k=Supergirl%3A+Woman+of+Tomorrow+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/798898/supergirl-woman-of-tomorrow-dc-compact-comics-by-tom-king/9781799506904/",
@@ -63,7 +63,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "static-season-one",
@@ -81,9 +81,9 @@
     "era": "Modern (2018–Present)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Static%3A+Season+One",
+        "url": "https://www.amazon.com/s?k=Static%3A+Season+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/773606/static-season-one-dc-compact-comics-edition-by-vita-ayala/9781799501541/",
@@ -96,7 +96,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "dceased",
@@ -114,7 +114,7 @@
     "era": "Modern (2018–Present)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=DCeased",
+        "url": "https://www.amazon.com/s?k=DCeased+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -129,7 +129,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "far-sector",
@@ -147,7 +147,7 @@
     "era": "Modern (2018–Present)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Far+Sector",
+        "url": "https://www.amazon.com/s?k=Far+Sector+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -162,7 +162,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "mister-miracle",
@@ -180,9 +180,9 @@
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Mister+Miracle",
+        "url": "https://www.amazon.com/s?k=Mister+Miracle+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828545/mister-miracle-dc-compact-comics-edition-by-tom-king/9781799509790/",
@@ -195,7 +195,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "dark-nights-metal",
@@ -213,7 +213,7 @@
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Dark+Nights%3A+Metal",
+        "url": "https://www.amazon.com/s?k=Dark+Nights%3A+Metal+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -228,7 +228,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batman-white-knight",
@@ -246,7 +246,7 @@
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batman%3A+White+Knight",
+        "url": "https://www.amazon.com/s?k=Batman%3A+White+Knight+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -261,7 +261,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "wonder-woman-earth-one",
@@ -279,7 +279,7 @@
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Wonder+Woman%3A+Earth+One",
+        "url": "https://www.amazon.com/s?k=Wonder+Woman%3A+Earth+One+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -294,7 +294,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batgirl-of-burnside",
@@ -312,7 +312,7 @@
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batgirl+of+Burnside",
+        "url": "https://www.amazon.com/s?k=Batgirl+of+Burnside+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -327,7 +327,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "injustice-gods-among-us-year-one",
@@ -345,7 +345,7 @@
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Injustice%3A+Gods+Among+Us%3A+Year+One",
+        "url": "https://www.amazon.com/s?k=Injustice%3A+Gods+Among+Us%3A+Year+One+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -360,7 +360,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "harley-quinn-wild-at-heart",
@@ -378,7 +378,7 @@
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Harley+Quinn%3A+Wild+at+Heart",
+        "url": "https://www.amazon.com/s?k=Harley+Quinn%3A+Wild+at+Heart+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -393,7 +393,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "justice-league-origin",
@@ -411,7 +411,7 @@
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Justice+League%3A+Origin",
+        "url": "https://www.amazon.com/s?k=Justice+League%3A+Origin+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -426,7 +426,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "wonder-woman-blood-and-guts",
@@ -444,7 +444,7 @@
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Wonder+Woman%3A+Blood+and+Guts",
+        "url": "https://www.amazon.com/s?k=Wonder+Woman%3A+Blood+and+Guts+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -459,7 +459,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batman-court-of-owls",
@@ -477,7 +477,7 @@
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batman%3A+The+Court+of+Owls+Saga",
+        "url": "https://www.amazon.com/s?k=Batman%3A+The+Court+of+Owls+Saga+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -492,7 +492,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "american-vampire-book-one",
@@ -510,7 +510,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=American+Vampire%3A+Book+One",
+        "url": "https://www.amazon.com/s?k=American+Vampire%3A+Book+One+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -525,7 +525,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "the-flash-rebirth",
@@ -543,7 +543,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=The+Flash%3A+Rebirth",
+        "url": "https://www.amazon.com/s?k=The+Flash%3A+Rebirth+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -558,7 +558,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batwoman-elegy",
@@ -576,7 +576,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batwoman%3A+Elegy",
+        "url": "https://www.amazon.com/s?k=Batwoman%3A+Elegy+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -591,7 +591,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "harley-quinn-gotham-city-sirens",
@@ -609,7 +609,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Harley+Quinn+%26+The+Gotham+City+Sirens",
+        "url": "https://www.amazon.com/s?k=Harley+Quinn+%26+The+Gotham+City+Sirens+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -624,7 +624,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "superman-brainiac",
@@ -642,7 +642,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Superman%3A+Brainiac",
+        "url": "https://www.amazon.com/s?k=Superman%3A+Brainiac+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -657,7 +657,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "joker",
@@ -675,7 +675,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Joker",
+        "url": "https://www.amazon.com/s?k=Joker+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -690,7 +690,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "green-arrow-year-one",
@@ -708,7 +708,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Green+Arrow%3A+Year+One",
+        "url": "https://www.amazon.com/s?k=Green+Arrow%3A+Year+One+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -723,7 +723,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batman-and-son",
@@ -741,7 +741,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batman+and+Son",
+        "url": "https://www.amazon.com/s?k=Batman+and+Son+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -756,7 +756,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batman-under-the-red-hood",
@@ -774,7 +774,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batman%3A+Under+the+Red+Hood",
+        "url": "https://www.amazon.com/s?k=Batman%3A+Under+the+Red+Hood+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -789,7 +789,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "all-star-superman",
@@ -807,7 +807,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=All-Star+Superman",
+        "url": "https://www.amazon.com/s?k=All-Star+Superman+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -822,7 +822,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "superman-secret-identity",
@@ -840,7 +840,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Superman%3A+Secret+Identity",
+        "url": "https://www.amazon.com/s?k=Superman%3A+Secret+Identity+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -855,7 +855,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "catwoman-when-in-rome",
@@ -873,7 +873,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Catwoman%3A+When+in+Rome",
+        "url": "https://www.amazon.com/s?k=Catwoman%3A+When+in+Rome+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -888,7 +888,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batman-harley-and-ivy",
@@ -906,7 +906,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batman%3A+Harley+and+Ivy",
+        "url": "https://www.amazon.com/s?k=Batman%3A+Harley+and+Ivy+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -921,7 +921,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "green-lantern-rebirth",
@@ -939,7 +939,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Green+Lantern%3A+Rebirth",
+        "url": "https://www.amazon.com/s?k=Green+Lantern%3A+Rebirth+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -954,7 +954,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "we3",
@@ -972,7 +972,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=We3",
+        "url": "https://www.amazon.com/s?k=We3+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -987,7 +987,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "dc-the-new-frontier",
@@ -1005,7 +1005,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=DC%3A+The+New+Frontier",
+        "url": "https://www.amazon.com/s?k=DC%3A+The+New+Frontier+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1020,7 +1020,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batgirl-year-one",
@@ -1038,7 +1038,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batgirl%3A+Year+One",
+        "url": "https://www.amazon.com/s?k=Batgirl%3A+Year+One+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1053,7 +1053,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "superman-red-son",
@@ -1071,7 +1071,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Superman%3A+Red+Son",
+        "url": "https://www.amazon.com/s?k=Superman%3A+Red+Son+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1086,7 +1086,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "superman-batman-book-one",
@@ -1104,7 +1104,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Superman%2FBatman%3A+Book+One",
+        "url": "https://www.amazon.com/s?k=Superman%2FBatman%3A+Book+One+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1119,7 +1119,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "superman-birthright",
@@ -1137,7 +1137,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Superman%3A+Birthright",
+        "url": "https://www.amazon.com/s?k=Superman%3A+Birthright+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1152,7 +1152,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "gotham-central",
@@ -1170,7 +1170,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Gotham+Central%3A+In+the+Line+of+Duty",
+        "url": "https://www.amazon.com/s?k=Gotham+Central%3A+In+the+Line+of+Duty+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1185,7 +1185,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "y-the-last-man-book-one",
@@ -1203,7 +1203,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Y%3A+The+Last+Man%3A+Book+One",
+        "url": "https://www.amazon.com/s?k=Y%3A+The+Last+Man%3A+Book+One+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1218,7 +1218,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batman-hush",
@@ -1236,7 +1236,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batman%3A+Hush",
+        "url": "https://www.amazon.com/s?k=Batman%3A+Hush+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1251,7 +1251,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "superboys-legion",
@@ -1269,22 +1269,22 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Superboy%27s+Legion",
+        "url": "https://www.amazon.com/s?k=Superboy%27s+Legion+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
       "prh": {
-        "url": "https://www.penguinrandomhouse.com/search/Superboy%27s%20Legion",
+        "url": "https://www.penguinrandomhouse.com/search/Superboy%27s%20Legion%20DC%20Compact%20Comics",
         "status": "unknown",
         "reason": "unverifiable"
       },
       "indigo": {
-        "url": "https://www.indigo.ca/en-ca/search?q=Superboy%27s+Legion",
+        "url": "https://www.indigo.ca/en-ca/search?q=Superboy%27s+Legion+DC+Compact+Comics",
         "status": "unavailable",
         "reason": "no-title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "catwoman-trail-of-the-catwoman",
@@ -1302,7 +1302,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Catwoman%3A+Trail+of+the+Catwoman",
+        "url": "https://www.amazon.com/s?k=Catwoman%3A+Trail+of+the+Catwoman+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1317,7 +1317,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "jla-tower-of-babel",
@@ -1335,7 +1335,7 @@
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=JLA%3A+Tower+of+Babel",
+        "url": "https://www.amazon.com/s?k=JLA%3A+Tower+of+Babel+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1350,7 +1350,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "100-bullets-first-shot",
@@ -1368,9 +1368,9 @@
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=100+Bullets%3A+First+Shot%2C+Last+Call",
+        "url": "https://www.amazon.com/s?k=100+Bullets%3A+First+Shot%2C+Last+Call+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828515/100-bullets-first-shot-last-call-dc-compact-comics-edition-by-brian-azzarello/9781799510703/",
@@ -1383,7 +1383,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "the-authority-book-one",
@@ -1401,7 +1401,7 @@
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=The+Authority%3A+Book+One",
+        "url": "https://www.amazon.com/s?k=The+Authority%3A+Book+One+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1416,7 +1416,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "superman-adventures-man-of-tomorrow",
@@ -1434,9 +1434,9 @@
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Superman+Adventures%3A+The+Man+of+Tomorrow",
+        "url": "https://www.amazon.com/s?k=Superman+Adventures%3A+The+Man+of+Tomorrow+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842135/superman-man-of-tomorrow-dc-compact-comics-adventures-by-scott-mccloud/9781799517153/",
@@ -1449,7 +1449,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batman-the-long-halloween",
@@ -1467,7 +1467,7 @@
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batman%3A+The+Long+Halloween",
+        "url": "https://www.amazon.com/s?k=Batman%3A+The+Long+Halloween+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1482,7 +1482,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "kingdom-come",
@@ -1500,7 +1500,7 @@
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Kingdom+Come",
+        "url": "https://www.amazon.com/s?k=Kingdom+Come+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1515,7 +1515,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "preacher-gone-to-texas",
@@ -1533,7 +1533,7 @@
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Preacher%3A+Gone+to+Texas",
+        "url": "https://www.amazon.com/s?k=Preacher%3A+Gone+to+Texas+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1548,7 +1548,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "the-batman-adventures-dark-knight",
@@ -1566,7 +1566,7 @@
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=The+Batman+Adventures%3A+The+Dark+Knight",
+        "url": "https://www.amazon.com/s?k=The+Batman+Adventures%3A+The+Dark+Knight+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1581,7 +1581,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "john-constantine-hellblazer-dangerous-habits",
@@ -1599,7 +1599,7 @@
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=John+Constantine%2C+Hellblazer%3A+Dangerous+Habits",
+        "url": "https://www.amazon.com/s?k=John+Constantine%2C+Hellblazer%3A+Dangerous+Habits+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1614,7 +1614,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batman-gotham-by-gaslight",
@@ -1632,7 +1632,7 @@
     "era": "Copper Age (1984–1989)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batman%3A+Gotham+by+Gaslight",
+        "url": "https://www.amazon.com/s?k=Batman%3A+Gotham+by+Gaslight+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1647,7 +1647,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batman-arkham-asylum",
@@ -1665,7 +1665,7 @@
     "era": "Copper Age (1984–1989)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batman%3A+Arkham+Asylum+%E2%80%93+A+Serious+House+on+Serious+Earth",
+        "url": "https://www.amazon.com/s?k=Batman%3A+Arkham+Asylum+%E2%80%93+A+Serious+House+on+Serious+Earth+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1680,7 +1680,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "superman-the-man-of-steel",
@@ -1698,7 +1698,7 @@
     "era": "Copper Age (1984–1989)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Superman%3A+The+Man+of+Steel",
+        "url": "https://www.amazon.com/s?k=Superman%3A+The+Man+of+Steel+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1713,7 +1713,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "batman-the-dark-knight-returns",
@@ -1731,7 +1731,7 @@
     "era": "Copper Age (1984–1989)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batman%3A+The+Dark+Knight+Returns",
+        "url": "https://www.amazon.com/s?k=Batman%3A+The+Dark+Knight+Returns+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1746,7 +1746,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "watchmen",
@@ -1764,7 +1764,7 @@
     "era": "Copper Age (1984–1989)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Watchmen",
+        "url": "https://www.amazon.com/s?k=Watchmen+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1779,7 +1779,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "crisis-on-infinite-earths",
@@ -1797,7 +1797,7 @@
     "era": "Copper Age (1984–1989)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Crisis+on+Infinite+Earths",
+        "url": "https://www.amazon.com/s?k=Crisis+on+Infinite+Earths+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1812,7 +1812,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "swamp-thing-anatomy-lesson",
@@ -1830,7 +1830,7 @@
     "era": "Copper Age (1984–1989)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Swamp+Thing%3A+The+Anatomy+Lesson",
+        "url": "https://www.amazon.com/s?k=Swamp+Thing%3A+The+Anatomy+Lesson+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1845,7 +1845,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   },
   {
     "id": "v-for-vendetta",
@@ -1863,7 +1863,7 @@
     "era": "Bronze Age (1970–1983)",
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=V+for+Vendetta",
+        "url": "https://www.amazon.com/s?k=V+for+Vendetta+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
@@ -1878,6 +1878,6 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:34:35.832524Z"
+    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
   }
 ]

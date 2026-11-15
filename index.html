@@ -407,11 +407,13 @@
       return (url || '').replace(/www\.amazon\.(com|ca)/, AMAZON_HOST);
     }
     function getBuyLinks(c) {
-      const titleQ = encodeURIComponent(c.title);
+      // Fallback when no checked link is stored: search for the Compact
+      // Edition specifically, not just the bare title.
+      const searchQ = encodeURIComponent(c.title + ' DC Compact Comics');
       const fallback = {
-        amazon: `https://${AMAZON_HOST}/s?k=${titleQ}`,
-        prh: `https://www.penguinrandomhouse.com/search/${titleQ}`,
-        indigo: `https://www.indigo.ca/en-ca/search?q=${titleQ}`
+        amazon: `https://${AMAZON_HOST}/s?k=${searchQ}`,
+        prh: `https://www.penguinrandomhouse.com/search/${searchQ}`,
+        indigo: `https://www.indigo.ca/en-ca/search?q=${searchQ}`
       };
       const checked = c.links || {};
       const links = {};

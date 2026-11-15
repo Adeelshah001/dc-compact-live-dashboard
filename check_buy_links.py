@@ -15,6 +15,14 @@ actually resolve to the book on each storefront, and records the result:
 The frontend (index.html) renders only links whose status is "available" or
 "unknown", and hides "unavailable" ones.
 
+Link policy: the default is the exact product page for the Compact Edition
+of the book (a verified PRH /books/ page, a verified Indigo product page).
+Only when a provider cannot land on the specific product page does the
+stored URL fall back to a store search for the exact product, queried as
+"<title> DC Compact Comics" so results stay on the Compact Edition rather
+than other editions of the same story. A link is hidden only when the
+provider is confirmed not to carry the book (see "Fail open" below).
+
 Design principles (verified by probing, 2026-11-14):
 
 * Fail open. A link is hidden ONLY on a confirmed negative signal. Any
@@ -28,7 +36,8 @@ Design principles (verified by probing, 2026-11-14):
   404. A previously verified canonical /books/ page is re-fetched each
   run and kept while it still resolves to the book; an inconclusive
   re-check never downgrades it. When no exact book page is known, the
-  stored PRH URL is a title search, not an ISBN search.
+  stored PRH URL is a "<title> DC Compact Comics" search, not an ISBN
+  search.
 * Indigo: indigo.ca is a Shopify storefront. Its public suggest API
   (/search/suggest.json) is queried three times per title: by ISBN, by
   title, and by title + "DC Compact". The ISBN query often returns zero
@@ -188,10 +197,22 @@ _reststop_failures = 0
 _CANONICAL_PRH_RE = re.compile(r"^https://www\.penguinrandomhouse\.com/books/\d+/")
 
 
+def search_query(title):
+    """Store search query for the Compact Edition of a title.
+
+    Exact product pages are always preferred; this query is only the
+    fallback when a provider cannot land on the specific product page.
+    Appending the series name keeps results on the Compact Edition
+    instead of other editions of the same story.
+    """
+    return f"{title} DC Compact Comics"
+
+
 def check_prh(isbn, title, existing_url=None):
     global _reststop_dead, _reststop_failures
     search_url = (
-        "https://www.penguinrandomhouse.com/search/" + urllib.parse.quote(title)
+        "https://www.penguinrandomhouse.com/search/"
+        + urllib.parse.quote(search_query(title))
     )
     existing_canonical = (
         existing_url if existing_url and _CANONICAL_PRH_RE.match(existing_url) else None
@@ -301,7 +322,9 @@ def _best_indigo_match(title, products):
 
 
 def check_indigo(isbn, title):
-    search_url = "https://www.indigo.ca/en-ca/search?q=" + urllib.parse.quote_plus(title)
+    search_url = "https://www.indigo.ca/en-ca/search?q=" + urllib.parse.quote_plus(
+        search_query(title)
+    )
     isbn_products = _indigo_suggest(isbn)
     time.sleep(0.4)
     title_products = _indigo_suggest(title)
@@ -335,10 +358,12 @@ AMAZON_CHALLENGE_MARKERS = (
 
 
 def check_amazon(isbn, title):
-    # Title search: store search engines match titles far more reliably
-    # than ISBNs. (The frontend swaps amazon.com for amazon.ca for
-    # visitors in Canada.)
-    url = "https://www.amazon.com/s?k=" + urllib.parse.quote_plus(title)
+    # Compact-edition title search. Amazon cannot be verified from a
+    # server (its bot challenge blocks every check), so no exact product
+    # page can be confirmed and the search is the fallback; the "DC
+    # Compact Comics" qualifier keeps it on this edition. (The frontend
+    # swaps amazon.com for amazon.ca for visitors in Canada.)
+    url = "https://www.amazon.com/s?k=" + urllib.parse.quote_plus(search_query(title))
     try:
         status, _, body = fetch_with_retry(url, timeout=15)
     except Exception:
