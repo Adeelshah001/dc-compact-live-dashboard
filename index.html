@@ -192,8 +192,8 @@
 
   <!-- DETAIL MODAL SLIDEOUT -->
   <div id="detailModal" class="fixed inset-0 z-50 bg-black/70 backdrop-blur-sm hidden flex items-center justify-center p-4">
-    <div class="space-glass max-w-xl w-full rounded-3xl p-6 relative shadow-2xl border border-white/20">
-      <button onclick="closeModal()" class="absolute top-4 right-4 text-slate-400 hover:text-white text-lg">✕</button>
+    <div class="space-glass max-w-xl w-full rounded-3xl p-6 relative shadow-2xl border border-white/20" style="overflow:hidden">
+      <button onclick="closeModal()" style="z-index:1" class="absolute top-4 right-4 text-slate-400 hover:text-white text-lg">✕</button>
       <div id="modalContent"></div>
     </div>
   </div>
@@ -451,7 +451,7 @@
           links.bookshop ? `<a href="${links.bookshop}" target="_blank" rel="noopener noreferrer" class="px-2.5 py-1 rounded-lg bg-teal-500/15 hover:bg-teal-500/25 border border-teal-500/30 text-teal-300 text-[11px] font-medium transition">Bookshop</a>` : ''
         ].filter(Boolean).join('');
         const buyRow = buyBtns ? `<div class="mt-4 pt-3 border-t border-white/5 flex items-center gap-1.5" onclick="event.stopPropagation()"><span class="text-[10px] uppercase font-bold text-slate-400 mr-0.5">Buy:</span>${buyBtns}</div>` : '';
-        const coverBg = c.coverUrl ? `<div aria-hidden="true" style="position:absolute;inset:0;z-index:0;pointer-events:none;overflow:hidden"><img src="${c.coverUrl}" alt="" loading="lazy" decoding="async" onerror="this.parentElement.style.display='none'" style="width:100%;height:100%;object-fit:cover;object-position:center 75%;transform:scale(1.25);filter:blur(6px)"><div style="position:absolute;inset:0;background:rgba(15,18,26,0.72)"></div></div>` : '';
+        const coverBg = c.coverUrl ? `<div aria-hidden="true" style="position:absolute;inset:0;z-index:0;pointer-events:none;overflow:hidden"><img src="${c.coverUrl}" alt="" loading="lazy" decoding="async" onerror="this.parentElement.style.display='none'" style="width:100%;height:100%;object-fit:cover;object-position:center 75%;transform:scale(1.25);filter:blur(4px)"><div style="position:absolute;inset:0;background:rgba(15,18,26,0.72)"></div></div>` : '';
         return `
         <div onclick="showDetail('${c.id}')" style="position:relative;overflow:hidden" class="space-glass p-5 rounded-3xl hover:shadow-xl hover:shadow-blue-500/5 transition cursor-pointer flex flex-col justify-between group">
           ${coverBg}
@@ -508,8 +508,10 @@
         : `<div class="text-xs text-slate-500 pt-1">No purchase links currently verified for this title — check back soon.</div>`;
       const modal = document.getElementById('detailModal');
       const content = document.getElementById('modalContent');
+      const modalCoverBg = c.coverUrl ? `<div aria-hidden="true" style="position:absolute;inset:0;z-index:0;pointer-events:none;overflow:hidden"><img src="${c.coverUrl}" alt="" loading="lazy" decoding="async" onerror="this.parentElement.style.display='none'" style="width:100%;height:100%;object-fit:cover;object-position:center 75%;transform:scale(1.25);filter:blur(4px)"><div style="position:absolute;inset:0;background:rgba(15,18,26,0.72)"></div></div>` : '';
       content.innerHTML = `
-        <div class="space-y-4">
+        ${modalCoverBg}
+        <div class="space-y-4" style="position:relative;z-index:1">
           <div class="flex items-center justify-between">
             <span class="badge-year px-3 py-1 rounded-xl text-sm font-black">Inside Issue Release: ${c.originalIssueYear || '—'}</span>
             <span class="${c.status === 'Released' ? 'badge-compact' : 'badge-upcoming'} px-3 py-1 rounded-full text-xs font-semibold">
