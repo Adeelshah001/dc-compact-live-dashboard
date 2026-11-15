@@ -67,6 +67,20 @@ USER_AGENT = {
 ANOMALY_LIMIT = 5
 NEVER_TOUCH_IDS = {"superboys-legion"}
 
+# DC-verified pins: values stated by DC itself that must survive PRH-gated
+# refreshes. Sourcing policy (user, 2026-11-14): DC official sources are
+# primary, provider pages (PRH etc.) secondary. Where PRH disagrees with DC
+# (Justice League: Heroes United page count: DC says 208, PRH's page JSON
+# says 160), DC wins. Source: DC Publicity, "DC Reveals Its Spring 2027
+# Books for Young Readers", 2026-06-15,
+# https://www.dc.com/blog/2026-06-15/dc-reveals-its-spring-2027-books-for-young-readers
+DC_PINNED = {
+    "the-batman-adventures-dark-knight": {"compactReleaseDate": "2027-03-30", "pageCount": 152},
+    "superman-adventures-man-of-tomorrow": {"compactReleaseDate": "2027-03-30", "pageCount": 152},
+    "justice-league-heroes-united": {"compactReleaseDate": "2027-06-29", "pageCount": 208},
+    "teen-titans-go-truth-justice-pizza": {"compactReleaseDate": "2027-06-29", "pageCount": 144},
+}
+
 ERA_BUCKETS = [
     (1970, 1983, "Bronze Age (1970–1983)"),
     (1984, 1989, "Copper Age (1984–1989)"),
@@ -418,6 +432,18 @@ def refresh_upcoming(catalog, known, delay, dry_run):
             updates["pageCount"] = meta["pages"]
         if new_status != item.get("status"):
             updates["status"] = new_status
+        # DC pins win over PRH-gated updates; re-assert a pin if the
+        # catalog has drifted from the DC-verified value.
+        for field, pinned in DC_PINNED.get(item["id"], {}).items():
+            if field in updates:
+                if updates[field] != pinned:
+                    changes.append(
+                        f"PIN-HOLD {item['id']}: {field} kept at DC-verified "
+                        f"{pinned} (PRH says {updates[field]})"
+                    )
+                del updates[field]
+            elif item.get(field) != pinned:
+                updates[field] = pinned
         if updates:
             desc = ", ".join(f"{k}: {item.get(k)} -> {v}" for k, v in updates.items())
             changes.append(f"UPDATE {item['id']}: {desc}")
