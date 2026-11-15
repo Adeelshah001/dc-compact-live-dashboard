@@ -82,17 +82,6 @@
         </div>
       </div>
 
-      <!-- View Switcher -->
-      <div class="flex items-center bg-slate-900/80 p-1 rounded-xl border border-white/10 text-xs font-medium">
-        <button id="tabGrid" onclick="setSpaceView('grid')" class="px-3 py-1.5 rounded-lg bg-blue-600 text-white shadow-sm flex items-center gap-1.5 transition-all">
-          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"></path></svg>
-          Card Matrix
-        </button>
-        <button id="tabTimeline" onclick="setSpaceView('timeline')" class="px-3 py-1.5 rounded-lg text-slate-400 hover:text-white flex items-center gap-1.5 transition-all">
-          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-          Chronological Stream
-        </button>
-      </div>
 
       <!-- Live Actions & Updater -->
       <div class="flex items-center gap-2">
@@ -187,15 +176,11 @@
   <!-- MAIN DISPLAY SPACES -->
   <main class="flex-1 max-w-7xl mx-auto w-full px-4 lg:px-8 py-4">
 
-    <!-- 1. GRID MATRIX VIEW (DEFAULT) -->
+    <!-- GRID MATRIX VIEW -->
     <div id="gridSpace" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <!-- Cards dynamically injected -->
     </div>
 
-    <!-- 2. CHRONOLOGICAL STREAM TIMELINE -->
-    <div id="timelineSpace" class="hidden relative pl-6 border-l-2 border-blue-500/30 space-y-6 max-w-4xl mx-auto py-4">
-      <!-- Timeline cards injected -->
-    </div>
   </main>
 
   <!-- FOOTER -->
@@ -275,7 +260,6 @@
   <script>
     let comicsData = [];
     let currentStatus = 'all';
-    let currentView = 'grid';
 
     // Robust live loader with automatic background sync & zero-fail fallback
     async function loadComics() {
@@ -424,22 +408,6 @@
       return links;
     }
 
-    function setSpaceView(view) {
-      currentView = view;
-      ['grid', 'timeline'].forEach(v => {
-        const btn = document.getElementById('tab' + v.charAt(0).toUpperCase() + v.slice(1));
-        const el = document.getElementById(v + 'Space');
-        if (v === view) {
-          btn.className = "px-3 py-1.5 rounded-lg bg-blue-600 text-white shadow-sm flex items-center gap-1.5 transition-all font-medium";
-          el.classList.remove('hidden');
-        } else {
-          btn.className = "px-3 py-1.5 rounded-lg text-slate-400 hover:text-white flex items-center gap-1.5 transition-all";
-          el.classList.add('hidden');
-        }
-      });
-      filterTitles();
-    }
-
     function filterTitles() {
       const query = document.getElementById('searchInput').value.toLowerCase().trim();
       const era = document.getElementById('eraSelect').value;
@@ -465,8 +433,7 @@
         return 0;
       });
 
-      if (currentView === 'grid') renderGrid(list);
-      else if (currentView === 'timeline') renderTimeline(list);
+      renderGrid(list);
     }
 
     function renderGrid(items) {
@@ -518,43 +485,6 @@
               </span>
               <span class="font-mono text-slate-400">Compact: ${c.compactReleaseDate}</span>
             </div>
-          </div>
-        </div>
-      `;
-      }).join('');
-    }
-
-    function renderTimeline(items) {
-      const container = document.getElementById('timelineSpace');
-      if (items.length === 0) {
-        container.innerHTML = `<div class="py-16 text-center text-slate-500 text-sm">No titles found.</div>`;
-        return;
-      }
-      container.innerHTML = items.map(c => {
-        const links = getBuyLinks(c);
-        const buyLinks = [
-          links.amazon ? `<a href="${links.amazon}" target="_blank" rel="noopener noreferrer" class="text-amber-300 hover:underline font-medium">Amazon ↗</a>` : '',
-          links.prh ? `<a href="${links.prh}" target="_blank" rel="noopener noreferrer" class="text-orange-300 hover:underline font-medium">Penguin House ↗</a>` : '',
-          links.indigo ? `<a href="${links.indigo}" target="_blank" rel="noopener noreferrer" class="text-indigo-300 hover:underline font-medium">Indigo ↗</a>` : '',
-          links.bookshop ? `<a href="${links.bookshop}" target="_blank" rel="noopener noreferrer" class="text-teal-300 hover:underline font-medium">Bookshop ↗</a>` : ''
-        ].filter(Boolean).join('<span class="text-slate-600">•</span>');
-        const buyRow = buyLinks ? `<div class="mt-3 pt-2 border-t border-white/5 flex items-center gap-3 text-xs" onclick="event.stopPropagation()"><span class="text-[10px] uppercase font-bold text-slate-400">Buy:</span>${buyLinks}</div>` : '';
-        return `
-        <div onclick="showDetail('${c.id}')" class="relative group cursor-pointer">
-          <div class="absolute -left-[31px] top-4 w-4 h-4 rounded-full bg-blue-600 border-4 border-[#0d0f14] group-hover:scale-125 transition"></div>
-          
-          <div class="space-glass p-4 rounded-2xl transition hover:border-blue-500/50">
-            <div class="flex flex-wrap items-center justify-between gap-2">
-              <div class="flex items-center gap-2">
-                <span class="badge-year px-2 py-0.5 rounded-lg text-xs font-bold text-white">${c.originalIssueYear || '—'}</span>
-                <h4 class="text-sm font-bold text-white group-hover:text-blue-400">${c.title}</h4>
-              </div>
-              <span class="text-xs font-mono text-slate-400">DC Compact: ${c.compactReleaseDate}</span>
-            </div>
-            <div class="text-xs text-slate-300 mt-1 font-mono text-[11px]">Collects: ${c.collectedIssues}</div>
-            <p class="text-xs text-slate-400 mt-2">${c.creators} • <span class="text-blue-300">${c.genre}</span></p>
-
-            ${buyRow}
           </div>
         </div>
       `;
