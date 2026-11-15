@@ -8,8 +8,7 @@ A clean, live dashboard cataloging all released and upcoming **DC Compact Comics
 
 ## Preview
 
-<!-- Replace this image path or URL with your screenshot when ready -->
-![DC Compact Comics Live Dashboard Screenshot](https://placehold.co/1200x630/0d0f14/3b82f6?text=DC+Compact+Comics+Dashboard+Preview)
+![DC Compact Comics Live Dashboard Screenshot](webview.jpg)
 
 ---
 
