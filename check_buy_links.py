@@ -64,7 +64,9 @@ Design principles (verified by probing, 2026-11-14):
   datacenter IPs (probed 2026-11-14), and product URLs carry an opaque
   id, so availability cannot be verified from a server. Bookshop links
   are recorded "unknown" with a "<title> DC Compact Comics" search URL,
-  the same fail-open treatment as Amazon.
+  the same fail-open treatment as Amazon. An exact /p/books/ page
+  pinned by the discovery pass is kept verbatim ("exact-kept") and
+  never downgraded back to a search.
 * Owner-pinned hides. An entry may carry "hideLinks": ["prh"] (any store
   names); those stores are recorded "unavailable" with reason
   "hidden-by-owner" regardless of the live check, so a deliberate hide
@@ -389,7 +391,7 @@ def check_amazon(isbn, title):
     return "unknown", url, "unrecognized-page"
 
 
-def check_bookshop(isbn, title):
+def check_bookshop(isbn, title, existing_url=None):
     # Compact-edition title search. Bookshop.org cannot be verified from
     # a server: its product pages and search return Cloudflare 403s to
     # datacenter IPs (probed 2026-11-14, real and fake lookups alike), and
@@ -397,6 +399,12 @@ def check_bookshop(isbn, title):
     # so no request is made and the search is recorded "unknown"
     # (fail-open, same treatment as Amazon). If the store ever becomes
     # fetchable, this is the one place to add a live check.
+    #
+    # An exact /p/books/ page pinned by the discovery pass is kept
+    # verbatim (it cannot be re-verified, so it stays "unknown" rather
+    # than being downgraded back to a search).
+    if existing_url and existing_url.startswith("https://bookshop.org/p/books/"):
+        return "unknown", existing_url, "exact-kept"
     url = "https://bookshop.org/beta-search?keywords=" + urllib.parse.quote_plus(search_query(title))
     return "unknown", url, "unverifiable"
 
@@ -440,7 +448,8 @@ def main():
             time.sleep(args.delay)
             amazon_status, amazon_url, amazon_reason = check_amazon(isbn, title)
             time.sleep(args.delay)
-            bookshop_status, bookshop_url, bookshop_reason = check_bookshop(isbn, title)
+            existing_bookshop = (item.get("links") or {}).get("bookshop", {}).get("url")
+            bookshop_status, bookshop_url, bookshop_reason = check_bookshop(isbn, title, existing_bookshop)
         else:
             prh_status, prh_url, prh_reason = "unknown", "", "no-isbn"
             indigo_status, indigo_url, indigo_reason = "unknown", "", "no-isbn"
