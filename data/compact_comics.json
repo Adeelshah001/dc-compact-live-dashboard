@@ -17,7 +17,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Nightwing%3A+Leaping+into+the+Light+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/809087/nightwing-leaping-into-the-light-dc-compact-comics-edition-by-tom-taylor/9781799507703/",
@@ -30,7 +30,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "supergirl-woman-of-tomorrow",
@@ -63,7 +63,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "static-season-one",
@@ -96,7 +96,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "dceased",
@@ -116,7 +116,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=DCeased+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/773604/dceased-dc-compact-comics-edition-by-tom-taylor/9781799501633/",
@@ -129,7 +129,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "far-sector",
@@ -162,7 +162,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "mister-miracle",
@@ -174,7 +174,7 @@
     "status": "Upcoming",
     "creators": "Tom King, Mitch Gerads",
     "genre": "Drama",
-    "pageCount": 320,
+    "pageCount": 312,
     "isbn": "9781799509813",
     "description": "Scott Free is the greatest escape artist in the universe, but can he escape suicide, domestic exhaustion, and an ongoing cosmic war against Apokolips? Darkseid Is.",
     "era": "Modern (2011–2017)",
@@ -182,7 +182,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Mister+Miracle+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828545/mister-miracle-dc-compact-comics-edition-by-tom-king/9781799509790/",
@@ -195,7 +195,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "dark-nights-metal",
@@ -215,7 +215,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Dark+Nights%3A+Metal+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828492/dark-nights-metal-dc-compact-comics-edition-by-scott-snyder/9781799508809/",
@@ -228,7 +228,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "batman-white-knight",
@@ -248,7 +248,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batman%3A+White+Knight+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/809090/batman-white-knight-dc-compact-comics-edition-by-sean-murphy/9781799507413/",
@@ -261,7 +261,45 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+  },
+  {
+    "id": "wonder-woman-year-one",
+    "title": "Wonder Woman: Year One",
+    "originalIssueYear": 2016,
+    "originalIssueSpan": "2016–2017",
+    "collectedIssues": "Wonder Woman #2, #4, #6, #8, #10, #12, #14, and a story from Wonder Woman Annual #1",
+    "compactReleaseDate": "2027-03-02",
+    "status": "Upcoming",
+    "creators": "Greg Rucka, Nicola Scott",
+    "genre": "Adventure",
+    "pageCount": 176,
+    "isbn": "9781799513667",
+    "description": "Diana's definitive modern origin, from her sheltered life on Themyscira to her first confrontation with Ares in Man's World.",
+    "era": "Modern (2011–2017)",
+    "discovery": {
+      "source": "manual-research",
+      "firstSeen": "2026-11-14",
+      "needsReview": true
+    },
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=Wonder+Woman%3A+Year+One+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unrecognized-page"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/books/842162/wonder-woman-year-one--dc-compact-comics-edition-by-greg-rucka/9781799513667/",
+        "status": "available",
+        "reason": "canonical-verified"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/wonder-woman-year-one-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "wonder-woman-earth-one",
@@ -281,7 +319,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Wonder+Woman%3A+Earth+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756699/wonder-woman-earth-one-dc-compact-comics-edition-by-grant-morrison/9781779527332/",
@@ -294,7 +332,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "batgirl-of-burnside",
@@ -314,7 +352,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batgirl+of+Burnside+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/809079/batgirl-of-burnside-dc-compact-comics-edition-by-cameron-stewart/9781799508557/",
@@ -327,7 +365,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "injustice-gods-among-us-year-one",
@@ -347,7 +385,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Injustice%3A+Gods+Among+Us%3A+Year+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/809077/injustice-gods-among-us-year-one-dc-compact-comics-edition-by-tom-taylor/9781799508564/",
@@ -360,7 +398,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "harley-quinn-wild-at-heart",
@@ -380,7 +418,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Harley+Quinn%3A+Wild+at+Heart+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/796852/harley-quinn-wild-at-heart-dc-compact-comics-edition-by-various/9781799503033/",
@@ -393,7 +431,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "justice-league-origin",
@@ -405,7 +443,7 @@
     "status": "Upcoming",
     "creators": "Geoff Johns, Jim Lee, Scott Williams",
     "genre": "Action",
-    "pageCount": 192,
+    "pageCount": 160,
     "isbn": "9781799509806",
     "description": "At the dawn of the superhero age, Batman, Superman, Wonder Woman, Green Lantern, The Flash, Aquaman, and Cyborg unite for the first time to repel Darkseid's invasion.",
     "era": "Modern (2011–2017)",
@@ -413,7 +451,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Justice+League%3A+Origin+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828544/justice-league-origin-dc-compact-comics-edition-by-geoff-johns/9781799509806/",
@@ -426,7 +464,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "wonder-woman-blood-and-guts",
@@ -446,7 +484,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Wonder+Woman%3A+Blood+and+Guts+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/796866/wonder-woman-blood-and-guts-dc-compact-comics-edition-by-various/9781799502494/",
@@ -459,7 +497,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "batman-court-of-owls",
@@ -479,7 +517,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batman%3A+The+Court+of+Owls+Saga+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756693/batman-the-court-of-owls-saga-dc-compact-comics-edition-by-scott-snyder/9781779527271/",
@@ -492,7 +530,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "american-vampire-book-one",
@@ -512,7 +550,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=American+Vampire%3A+Book+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756700/american-vampire-book-one-dc-compact-comics-edition-by-scott-nyder/9781779527349/",
@@ -525,7 +563,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "the-flash-rebirth",
@@ -545,7 +583,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=The+Flash%3A+Rebirth+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/811898/the-flash-rebirth-dc-compact-comics-edition-by-geoff-johns/9781799507697/",
@@ -558,7 +596,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "batwoman-elegy",
@@ -578,7 +616,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batwoman%3A+Elegy+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/773602/batwoman-elegy-dc-compact-comics-edition-by-greg-rucka/9781799501824/",
@@ -591,7 +629,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "harley-quinn-gotham-city-sirens",
@@ -611,7 +649,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Harley+Quinn+%26+The+Gotham+City+Sirens+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756696/harley-quinn-and-the-gotham-city-sirens-dc-compact-comics-edition-by-paul-dini/9781779527301/",
@@ -624,7 +662,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "superman-brainiac",
@@ -632,11 +670,11 @@
     "originalIssueYear": 2008,
     "originalIssueSpan": "2008",
     "collectedIssues": "Action Comics #866–870, Superman: New Krypton Special #1",
-    "compactReleaseDate": "2027-06-02",
+    "compactReleaseDate": "2027-06-01",
     "status": "Upcoming",
     "creators": "Geoff Johns, Gary Frank, Jon Sibal",
     "genre": "Sci-Fi",
-    "pageCount": 160,
+    "pageCount": 128,
     "isbn": "9781799513810",
     "description": "Superman faces the true, terrifying extraterrestrial cyborg Brainiac who bottled the Kryptonian city of Kandor.",
     "era": "Modern (2000–2010)",
@@ -644,7 +682,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Superman%3A+Brainiac+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/849165/superman-brainiac-dc-compact-comics-edition-by-geoff-johns/9781799519249/",
@@ -657,7 +695,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "joker",
@@ -677,7 +715,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Joker+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756697/joker-dc-compact-comics-edition-by-brian-azzarello/9781779527318/",
@@ -690,7 +728,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "green-arrow-year-one",
@@ -710,7 +748,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Green+Arrow%3A+Year+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/811893/green-arrow-year-one-dc-compact-comics-edition-by-andy-diggle/9781799508083/",
@@ -723,7 +761,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "batman-and-son",
@@ -743,7 +781,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batman+and+Son+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828507/batman-and-son-dc-compact-comics-edition-by-grant-morrison/9781799508793/",
@@ -756,7 +794,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "batman-under-the-red-hood",
@@ -789,7 +827,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "all-star-superman",
@@ -822,7 +860,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "superman-secret-identity",
@@ -855,85 +893,95 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
-    "id": "catwoman-when-in-rome",
-    "title": "Catwoman: When in Rome",
+    "id": "justice-league-heroes-united",
+    "title": "Justice League: Heroes United",
     "originalIssueYear": 2004,
     "originalIssueSpan": "2004–2005",
-    "collectedIssues": "Catwoman: When in Rome #1–6",
-    "compactReleaseDate": "2027-04-20",
+    "collectedIssues": "Justice League Unlimited #1–7",
+    "compactReleaseDate": "2027-06-29",
     "status": "Upcoming",
-    "creators": "Jeph Loeb, Tim Sale",
-    "genre": "Mystery",
-    "pageCount": 160,
-    "isbn": "9781799513780",
-    "description": "Selina Kyle and the Riddler journey to Italy to unlock the secret of her mobster parentage during the events of The Long Halloween and Dark Victory.",
+    "creators": "Adam Beechen, Carlo Barberi",
+    "genre": "All-Ages",
+    "pageCount": 208,
+    "isbn": "9781799517160",
+    "description": "Seven all-ages Justice League adventures from the animated-universe comics, collecting Justice League Unlimited #1-7.",
     "era": "Modern (2000–2010)",
+    "discovery": {
+      "source": "manual-research",
+      "firstSeen": "2026-11-14",
+      "needsReview": true
+    },
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Catwoman%3A+When+in+Rome+DC+Compact+Comics",
+        "url": "https://www.amazon.com/s?k=Justice+League%3A+Heroes+United+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
       "prh": {
-        "url": "https://www.penguinrandomhouse.com/books/842161/catwoman-when-in-rome-dc-compact-comics-edition-by-jeph-loeb/9781799513674/",
+        "url": "https://www.penguinrandomhouse.com/books/842134/justice-league-heroes-united-dc-compact-comics-adventures-by-beechen-adam/9781799517160/",
         "status": "available",
         "reason": "canonical-verified"
       },
       "indigo": {
-        "url": "https://www.indigo.ca/products/catwoman-when-in-rome-dc-compact-comics-edition",
+        "url": "https://www.indigo.ca/products/justice-league-heroes-united-dc-compact-comics-adventures",
         "status": "available",
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
-    "id": "batman-harley-and-ivy",
-    "title": "Batman: Harley and Ivy",
+    "id": "teen-titans-go-truth-justice-pizza",
+    "title": "Teen Titans Go!: Truth, Justice, Pizza",
     "originalIssueYear": 2004,
     "originalIssueSpan": "2004",
-    "collectedIssues": "Batman: Harley and Ivy #1–3, Harley and Ivy: Love on the Lam",
-    "compactReleaseDate": "2026-10-06",
-    "status": "Released",
-    "creators": "Paul Dini, Bruce Timm",
-    "genre": "Comedy",
-    "pageCount": 136,
-    "isbn": "9781799509783",
-    "description": "Classic animated adventures with Gotham's favorite dynamic duo of villainy pulling off hilarious capers across Gotham and Hollywood.",
+    "collectedIssues": "Teen Titans Go! #1–6",
+    "compactReleaseDate": "2027-06-29",
+    "status": "Upcoming",
+    "creators": "J. Torres, Todd Nauck",
+    "genre": "All-Ages",
+    "pageCount": 144,
+    "isbn": "9781799517177",
+    "description": "The animated Teen Titans tackle villainous video games, aliens, and sibling squabbles in six all-ages stories.",
     "era": "Modern (2000–2010)",
+    "discovery": {
+      "source": "manual-research",
+      "firstSeen": "2026-11-14",
+      "needsReview": true
+    },
     "links": {
       "amazon": {
-        "url": "https://www.amazon.com/s?k=Batman%3A+Harley+and+Ivy+DC+Compact+Comics",
+        "url": "https://www.amazon.com/s?k=Teen+Titans+Go%21%3A+Truth%2C+Justice%2C+Pizza+DC+Compact+Comics",
         "status": "unknown",
         "reason": "bot-challenge"
       },
       "prh": {
-        "url": "https://www.penguinrandomhouse.com/books/828531/batman-harley-and-ivy-dc-compact-comics-edition-by-paul-dini/9781799509301/",
+        "url": "https://www.penguinrandomhouse.com/books/842133/teen-titans-go-truth-justice-pizza-dc-compact-comics-adventures-by-j-torres/9781799517177/",
         "status": "available",
         "reason": "canonical-verified"
       },
       "indigo": {
-        "url": "https://www.indigo.ca/products/batman-harley-and-ivy-dc-compact-comics-edition",
+        "url": "https://www.indigo.ca/products/teen-titans-go-truth-justice-pizza-dc-compact-comics-adventures",
         "status": "available",
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "green-lantern-rebirth",
     "title": "Green Lantern: Rebirth",
     "originalIssueYear": 2004,
     "originalIssueSpan": "2004–2005",
-    "collectedIssues": "Green Lantern: Rebirth #1–6",
-    "compactReleaseDate": "2026-05-19",
-    "status": "Released",
+    "collectedIssues": "Green Lantern: Rebirth #1–6, Green Lantern #1–6",
+    "compactReleaseDate": "2027-06-01",
+    "status": "Upcoming",
     "creators": "Geoff Johns, Ethan Van Sciver",
     "genre": "Sci-Fi",
-    "pageCount": 176,
+    "pageCount": 320,
     "isbn": "9781799513704",
     "description": "Hal Jordan returns to the mantle of Green Lantern as the fear entity Parallax is exposed, revitalizing the Green Lantern mythos for a generation.",
     "era": "Modern (2000–2010)",
@@ -954,7 +1002,73 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+  },
+  {
+    "id": "catwoman-when-in-rome",
+    "title": "Catwoman: When in Rome",
+    "originalIssueYear": 2004,
+    "originalIssueSpan": "2004–2005",
+    "collectedIssues": "Catwoman: When in Rome #1–6",
+    "compactReleaseDate": "2027-04-27",
+    "status": "Upcoming",
+    "creators": "Jeph Loeb, Tim Sale",
+    "genre": "Mystery",
+    "pageCount": 152,
+    "isbn": "9781799513780",
+    "description": "Selina Kyle and the Riddler journey to Italy to unlock the secret of her mobster parentage during the events of The Long Halloween and Dark Victory.",
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=Catwoman%3A+When+in+Rome+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unrecognized-page"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/books/842161/catwoman-when-in-rome-dc-compact-comics-edition-by-jeph-loeb/9781799513674/",
+        "status": "available",
+        "reason": "canonical-verified"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/catwoman-when-in-rome-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+  },
+  {
+    "id": "batman-harley-and-ivy",
+    "title": "Batman: Harley and Ivy",
+    "originalIssueYear": 2004,
+    "originalIssueSpan": "2004",
+    "collectedIssues": "Batman: Harley and Ivy #1–3, Harley and Ivy: Love on the Lam",
+    "compactReleaseDate": "2026-10-06",
+    "status": "Released",
+    "creators": "Paul Dini, Bruce Timm",
+    "genre": "Comedy",
+    "pageCount": 136,
+    "isbn": "9781799509783",
+    "description": "Classic animated adventures with Gotham's favorite dynamic duo of villainy pulling off hilarious capers across Gotham and Hollywood.",
+    "era": "Modern (2000–2010)",
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=Batman%3A+Harley+and+Ivy+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unrecognized-page"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/books/828531/batman-harley-and-ivy-dc-compact-comics-edition-by-paul-dini/9781799509301/",
+        "status": "available",
+        "reason": "canonical-verified"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/batman-harley-and-ivy-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "we3",
@@ -974,7 +1088,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=We3+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/796859/we3-dc-compact-comics-edition-by-various/9781799503255/",
@@ -987,7 +1101,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "dc-the-new-frontier",
@@ -1007,7 +1121,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=DC%3A+The+New+Frontier+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/796836/dc-the-new-frontier-dc-compact-comics-edition-by-various/9781799502340/",
@@ -1020,7 +1134,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "batgirl-year-one",
@@ -1040,7 +1154,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batgirl%3A+Year+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842164/batgirl-year-one-dc-compact-comics-edition-by-chuck-dixon/9781799513643/",
@@ -1053,7 +1167,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "superman-red-son",
@@ -1073,7 +1187,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Superman%3A+Red+Son+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/809083/superman-red-son-dc-compact-comics-edition-by-mark-millar/9781799508281/",
@@ -1086,7 +1200,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "superman-batman-book-one",
@@ -1106,7 +1220,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Superman%2FBatman%3A+Book+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/773598/supermanbatman-dc-compact-comics-edition-by-jeph-loeb/9781799502135/",
@@ -1119,7 +1233,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "superman-birthright",
@@ -1139,7 +1253,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Superman%3A+Birthright+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/773601/superman-birthright-dc-compact-comics-edition-by-mark-waid/9781799501916/",
@@ -1152,7 +1266,45 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+  },
+  {
+    "id": "fables-no-more-happily-ever-after",
+    "title": "Fables: No More Happily Ever After",
+    "originalIssueYear": 2002,
+    "originalIssueSpan": "2002–2003",
+    "collectedIssues": "Fables #1–10",
+    "compactReleaseDate": "2026-09-01",
+    "status": "Released",
+    "creators": "Bill Willingham, Lan Medina, Mark Buckingham",
+    "genre": "Fantasy",
+    "pageCount": 248,
+    "isbn": "9781799509110",
+    "description": "The opening arc of Bill Willingham's acclaimed Vertigo series, collecting Fables #1-10.",
+    "era": "Modern (2000–2010)",
+    "discovery": {
+      "source": "manual-research",
+      "firstSeen": "2026-11-14",
+      "needsReview": true
+    },
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=Fables%3A+No+More+Happily+Ever+After+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unrecognized-page"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/books/828539/fables-no-more-happily-ever-after-dc-compact-comics-edition-by-bill-willingham/9781799509110/",
+        "status": "available",
+        "reason": "canonical-verified"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/fables-no-more-happily-ever-after-dc-compact-comics-edition",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "gotham-central",
@@ -1172,7 +1324,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Gotham+Central%3A+In+the+Line+of+Duty+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/811892/gotham-central-dc-compact-comics-edition-by-greg-rucka/9781799508076/",
@@ -1185,7 +1337,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "y-the-last-man-book-one",
@@ -1205,7 +1357,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Y%3A+The+Last+Man%3A+Book+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/796846/y-the-last-man-unmanned-dc-compact-comics-edition-by-various/9781799502890/",
@@ -1218,7 +1370,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "batman-hush",
@@ -1238,7 +1390,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batman%3A+Hush+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756672/batman-hush-dc-compact-comics-edition-by-jeph-loeb/9781779527264/",
@@ -1251,7 +1403,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "superboys-legion",
@@ -1271,7 +1423,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Superboy%27s+Legion+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/search/Superboy%27s%20Legion%20DC%20Compact%20Comics",
@@ -1284,7 +1436,7 @@
         "reason": "no-title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "catwoman-trail-of-the-catwoman",
@@ -1304,7 +1456,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Catwoman%3A+Trail+of+the+Catwoman+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756694/catwoman-trail-of-the-catwoman-dc-compact-comics-edition-by-ed-brubaker/9781779527288/",
@@ -1317,19 +1469,19 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "jla-tower-of-babel",
     "title": "JLA: Tower of Babel",
     "originalIssueYear": 2000,
     "originalIssueSpan": "2000",
-    "collectedIssues": "JLA #43–46, JLA Secret Files and Origins #3",
-    "compactReleaseDate": "2026-06-16",
-    "status": "Released",
+    "collectedIssues": "JLA #18–21, #32–33, #43–46, two stories from JLA Secret Files and Origins #3",
+    "compactReleaseDate": "2027-06-29",
+    "status": "Upcoming",
     "creators": "Mark Waid, Howard Porter, Steve Scott",
     "genre": "Superhero",
-    "pageCount": 144,
+    "pageCount": 160,
     "isbn": "9781799513728",
     "description": "Ra's al Ghul steals Batman's secret tactical contingency plans designed to neutralize every member of the Justice League if they went rogue.",
     "era": "Modern (2000–2010)",
@@ -1337,7 +1489,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=JLA%3A+Tower+of+Babel+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842158/jla-the-tower-of-babel-dc-compact-comics-edition-by-mark-waid/9781799513711/",
@@ -1350,7 +1502,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "100-bullets-first-shot",
@@ -1383,7 +1535,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "the-authority-book-one",
@@ -1403,7 +1555,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=The+Authority%3A+Book+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/779879/the-authority-relentless-dc-compact-comics-edition-by-warren-ellis/9781799501992/",
@@ -1416,7 +1568,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "superman-adventures-man-of-tomorrow",
@@ -1449,7 +1601,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "batman-the-long-halloween",
@@ -1469,7 +1621,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batman%3A+The+Long+Halloween+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/796845/batman-the-long-halloween-dc-compact-comics-edition-by-various/9781799502883/",
@@ -1482,7 +1634,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "kingdom-come",
@@ -1502,7 +1654,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Kingdom+Come+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/773607/kingdom-come-dc-compact-comics-edition-by-mark-waid/9781799501299/",
@@ -1515,7 +1667,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "preacher-gone-to-texas",
@@ -1535,7 +1687,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Preacher%3A+Gone+to+Texas+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828516/preacher-gone-to-texas-dc-compact-comics-edition-by-garth-ennis/9781799510710/",
@@ -1548,7 +1700,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "the-batman-adventures-dark-knight",
@@ -1560,7 +1712,7 @@
     "status": "Upcoming",
     "creators": "Kelley Puckett, Mike Parobeck, Rick Burchett",
     "genre": "All-Ages",
-    "pageCount": 160,
+    "pageCount": 152,
     "isbn": "9781799513766",
     "description": "Pure Batman: The Animated Series comic magic, featuring the Joker, Catwoman, Penguin, and the timeless Bruce Timm art style.",
     "era": "Dark Age / 90s (1990–1999)",
@@ -1568,7 +1720,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=The+Batman+Adventures%3A+The+Dark+Knight+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842136/batman-the-dark-knight-dc-compact-comics-adventures-by-kelley-puckett/9781799517146/",
@@ -1581,7 +1733,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "john-constantine-hellblazer-dangerous-habits",
@@ -1589,7 +1741,7 @@
     "originalIssueYear": 1991,
     "originalIssueSpan": "1991",
     "collectedIssues": "Hellblazer #41–46",
-    "compactReleaseDate": "2027-04-20",
+    "compactReleaseDate": "2027-04-13",
     "status": "Upcoming",
     "creators": "Garth Ennis, Will Simpson, Mark Pennington",
     "genre": "Occult",
@@ -1601,7 +1753,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=John+Constantine%2C+Hellblazer%3A+Dangerous+Habits+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842160/john-constantine-hellblazer-dangerous-habits-dc-compact-comics-edition-by-garth-ennis/9781799513681/",
@@ -1614,7 +1766,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "batman-gotham-by-gaslight",
@@ -1634,7 +1786,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batman%3A+Gotham+by+Gaslight+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/798258/batman-gotham-by-gaslight-dc-compact-comics-edition-by-brian-augustyn/9781799506652/",
@@ -1647,7 +1799,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "batman-arkham-asylum",
@@ -1667,7 +1819,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batman%3A+Arkham+Asylum+%E2%80%93+A+Serious+House+on+Serious+Earth+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/804224/batman-arkham-asylum-dc-compact-comics-by-grant-morrison/9781799506997/",
@@ -1680,7 +1832,46 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+  },
+  {
+    "id": "superman-dc-compact-comics-box-set",
+    "title": "Superman DC Compact Comics Box Set",
+    "originalIssueYear": 1986,
+    "originalIssueSpan": "1986–2021",
+    "collectedIssues": "Superman/Batman: Book One; Superman: Birthright; Superman: Brainiac; Superman: The Man of Steel; Superman: Secret Identity; Supergirl: Woman of Tomorrow",
+    "compactReleaseDate": "2027-06-01",
+    "status": "Upcoming",
+    "creators": "Various",
+    "genre": "Box Set",
+    "pageCount": 1320,
+    "isbn": "9781799519232",
+    "description": "Box set collecting six Superman-family DC Compact Comics editions: Superman/Batman, Superman: Birthright, Superman: Brainiac, Superman: Man of Steel, Superman: Secret Identity, and Supergirl: Woman of Tomorrow.",
+    "era": "Copper Age (1984–1989)",
+    "type": "box_set",
+    "discovery": {
+      "source": "manual-research",
+      "firstSeen": "2026-11-14",
+      "needsReview": true
+    },
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=Superman+DC+Compact+Comics+Box+Set+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unrecognized-page"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/books/849145/superman-dc-compact-comics-box-set-by-various/9781799519232/",
+        "status": "available",
+        "reason": "canonical-verified"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/superman-dc-compact-comics-box-set",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "superman-the-man-of-steel",
@@ -1700,7 +1891,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Superman%3A+The+Man+of+Steel+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842163/superman-man-of-steel--dc-compact-comics-edition-by-john-byrne/9781799513650/",
@@ -1713,7 +1904,46 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+  },
+  {
+    "id": "dc-compact-comics-box-set",
+    "title": "DC Compact Comics Box Set",
+    "originalIssueYear": 1986,
+    "originalIssueSpan": "1986–2005",
+    "collectedIssues": "All-Star Superman; Batman: The Dark Knight Returns; Batman: The Long Halloween; DC: The New Frontier; Kingdom Come; Watchmen",
+    "compactReleaseDate": "2026-11-24",
+    "status": "Upcoming",
+    "creators": "Various",
+    "genre": "Box Set",
+    "pageCount": 1912,
+    "isbn": "9781799516354",
+    "description": "Box set collecting six DC Compact Comics editions: All-Star Superman, Batman: The Dark Knight Returns, Batman: The Long Halloween, DC: The New Frontier, Kingdom Come, and Watchmen.",
+    "era": "Copper Age (1984–1989)",
+    "type": "box_set",
+    "discovery": {
+      "source": "manual-research",
+      "firstSeen": "2026-11-14",
+      "needsReview": true
+    },
+    "links": {
+      "amazon": {
+        "url": "https://www.amazon.com/s?k=DC+Compact+Comics+Box+Set+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unrecognized-page"
+      },
+      "prh": {
+        "url": "https://www.penguinrandomhouse.com/books/834039/dc-compact-comics-box-set-by-various/9781799516354/",
+        "status": "available",
+        "reason": "canonical-verified"
+      },
+      "indigo": {
+        "url": "https://www.indigo.ca/products/dc-compact-comics-box-set",
+        "status": "available",
+        "reason": "title-match"
+      }
+    },
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "batman-the-dark-knight-returns",
@@ -1733,7 +1963,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batman%3A+The+Dark+Knight+Returns+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/809085/batman-the-dark-knight-returns-dc-compact-comics-edition-by-frank-miller/9781799507864/",
@@ -1746,7 +1976,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "watchmen",
@@ -1766,7 +1996,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Watchmen+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756698/watchmen-dc-compact-comics-edition-by-alan-moore/9781779527325/",
@@ -1779,7 +2009,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "crisis-on-infinite-earths",
@@ -1799,7 +2029,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Crisis+on+Infinite+Earths+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828553/crisis-on-infinite-earths-dc-compact-comics-edition-by-marv-wolfman/9781799509608/",
@@ -1812,7 +2042,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "swamp-thing-anatomy-lesson",
@@ -1832,7 +2062,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Swamp+Thing%3A+The+Anatomy+Lesson+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828532/swamp-thing-the-anatomy-lesson-dc-compact-comics-edition-by-alan-moore/9781799509295/",
@@ -1845,7 +2075,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   },
   {
     "id": "v-for-vendetta",
@@ -1865,7 +2095,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=V+for+Vendetta+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/796855/v-for-vendetta-dc-compact-comics-edition-by-various/9781799503132/",
@@ -1878,6 +2108,6 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-14T23:54:23.300117Z"
+    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
   }
 ]
