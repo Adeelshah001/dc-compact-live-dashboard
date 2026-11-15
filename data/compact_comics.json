@@ -28,9 +28,14 @@
         "url": "https://www.indigo.ca/products/nightwing-leaping-into-the-light-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Nightwing%3A+Leaping+into+the+Light+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "supergirl-woman-of-tomorrow",
@@ -50,7 +55,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Supergirl%3A+Woman+of+Tomorrow+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/798898/supergirl-woman-of-tomorrow-dc-compact-comics-by-tom-king/9781799506904/",
@@ -61,9 +66,14 @@
         "url": "https://www.indigo.ca/products/supergirl-woman-of-tomorrow-dc-compact-comics",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Supergirl%3A+Woman+of+Tomorrow+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "static-season-one",
@@ -83,7 +93,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Static%3A+Season+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/773606/static-season-one-dc-compact-comics-edition-by-vita-ayala/9781799501541/",
@@ -94,9 +104,14 @@
         "url": "https://www.indigo.ca/products/static-season-one-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Static%3A+Season+One+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "dceased",
@@ -127,9 +142,14 @@
         "url": "https://www.indigo.ca/products/dceased-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=DCeased+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "far-sector",
@@ -149,7 +169,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Far+Sector+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756695/far-sector-dc-compact-comics-edition-by-nk-jemisin/9781779527295/",
@@ -160,9 +180,14 @@
         "url": "https://www.indigo.ca/products/far-sector-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Far+Sector+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "mister-miracle",
@@ -182,7 +207,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Mister+Miracle+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828545/mister-miracle-dc-compact-comics-edition-by-tom-king/9781799509790/",
@@ -193,9 +218,14 @@
         "url": "https://www.indigo.ca/products/mister-miracle-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Mister+Miracle+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "dark-nights-metal",
@@ -226,9 +256,14 @@
         "url": "https://www.indigo.ca/products/dark-nights-metal-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Dark+Nights%3A+Metal+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batman-white-knight",
@@ -259,9 +294,14 @@
         "url": "https://www.indigo.ca/products/batman-white-knight-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batman%3A+White+Knight+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "wonder-woman-year-one",
@@ -286,7 +326,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Wonder+Woman%3A+Year+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842162/wonder-woman-year-one--dc-compact-comics-edition-by-greg-rucka/9781799513667/",
@@ -297,9 +337,14 @@
         "url": "https://www.indigo.ca/products/wonder-woman-year-one-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Wonder+Woman%3A+Year+One+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "wonder-woman-earth-one",
@@ -319,7 +364,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Wonder+Woman%3A+Earth+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756699/wonder-woman-earth-one-dc-compact-comics-edition-by-grant-morrison/9781779527332/",
@@ -330,9 +375,14 @@
         "url": "https://www.indigo.ca/products/wonder-woman-earth-one-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Wonder+Woman%3A+Earth+One+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batgirl-of-burnside",
@@ -352,7 +402,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batgirl+of+Burnside+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/809079/batgirl-of-burnside-dc-compact-comics-edition-by-cameron-stewart/9781799508557/",
@@ -363,9 +413,14 @@
         "url": "https://www.indigo.ca/products/batgirl-of-burnside-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batgirl+of+Burnside+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "injustice-gods-among-us-year-one",
@@ -385,7 +440,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Injustice%3A+Gods+Among+Us%3A+Year+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/809077/injustice-gods-among-us-year-one-dc-compact-comics-edition-by-tom-taylor/9781799508564/",
@@ -396,9 +451,14 @@
         "url": "https://www.indigo.ca/products/injustice-gods-among-us-year-one-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Injustice%3A+Gods+Among+Us%3A+Year+One+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "harley-quinn-wild-at-heart",
@@ -418,7 +478,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Harley+Quinn%3A+Wild+at+Heart+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/796852/harley-quinn-wild-at-heart-dc-compact-comics-edition-by-various/9781799503033/",
@@ -429,9 +489,14 @@
         "url": "https://www.indigo.ca/products/harley-quinn-wild-at-heart-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Harley+Quinn%3A+Wild+at+Heart+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "justice-league-origin",
@@ -451,7 +516,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Justice+League%3A+Origin+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828544/justice-league-origin-dc-compact-comics-edition-by-geoff-johns/9781799509806/",
@@ -462,9 +527,14 @@
         "url": "https://www.indigo.ca/products/justice-league-origin-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Justice+League%3A+Origin+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "wonder-woman-blood-and-guts",
@@ -495,9 +565,14 @@
         "url": "https://www.indigo.ca/products/wonder-woman-blood-and-guts-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Wonder+Woman%3A+Blood+and+Guts+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batman-court-of-owls",
@@ -528,9 +603,14 @@
         "url": "https://www.indigo.ca/products/batman-the-court-of-owls-saga-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batman%3A+The+Court+of+Owls+Saga+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "american-vampire-book-one",
@@ -550,7 +630,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=American+Vampire%3A+Book+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756700/american-vampire-book-one-dc-compact-comics-edition-by-scott-nyder/9781779527349/",
@@ -561,9 +641,14 @@
         "url": "https://www.indigo.ca/products/american-vampire-book-one-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=American+Vampire%3A+Book+One+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "the-flash-rebirth",
@@ -583,7 +668,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=The+Flash%3A+Rebirth+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/811898/the-flash-rebirth-dc-compact-comics-edition-by-geoff-johns/9781799507697/",
@@ -594,9 +679,14 @@
         "url": "https://www.indigo.ca/products/the-flash-rebirth-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=The+Flash%3A+Rebirth+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batwoman-elegy",
@@ -616,7 +706,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batwoman%3A+Elegy+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/773602/batwoman-elegy-dc-compact-comics-edition-by-greg-rucka/9781799501824/",
@@ -627,9 +717,14 @@
         "url": "https://www.indigo.ca/products/batwoman-elegy-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batwoman%3A+Elegy+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "harley-quinn-gotham-city-sirens",
@@ -660,9 +755,14 @@
         "url": "https://www.indigo.ca/products/harley-quinn-the-gotham-city-sirens-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Harley+Quinn+%26+The+Gotham+City+Sirens+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "superman-brainiac",
@@ -693,9 +793,14 @@
         "url": "https://www.indigo.ca/products/superman-brainiac-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Superman%3A+Brainiac+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "joker",
@@ -726,9 +831,14 @@
         "url": "https://www.indigo.ca/products/joker-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Joker+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "green-arrow-year-one",
@@ -759,9 +869,14 @@
         "url": "https://www.indigo.ca/products/green-arrow-year-one-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Green+Arrow%3A+Year+One+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batman-and-son",
@@ -792,9 +907,14 @@
         "url": "https://www.indigo.ca/products/batman-son-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batman+and+Son+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batman-under-the-red-hood",
@@ -825,9 +945,14 @@
         "url": "https://www.indigo.ca/products/batman-under-the-red-hood-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batman%3A+Under+the+Red+Hood+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "all-star-superman",
@@ -847,7 +972,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=All-Star+Superman+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756671/all-star-superman-dc-compact-comics-edition-by-grant-morrison/9781779527257/",
@@ -858,9 +983,14 @@
         "url": "https://www.indigo.ca/products/all-star-superman-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=All-Star+Superman+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "superman-secret-identity",
@@ -880,7 +1010,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Superman%3A+Secret+Identity+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/865381/superman-secret-identity--dc-compact-comics-edition-by-kurt-busiek/9781799513728/",
@@ -891,9 +1021,14 @@
         "url": "https://www.indigo.ca/products/superman-secret-identity-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Superman%3A+Secret+Identity+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "justice-league-heroes-united",
@@ -918,7 +1053,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Justice+League%3A+Heroes+United+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842134/justice-league-heroes-united-dc-compact-comics-adventures-by-beechen-adam/9781799517160/",
@@ -929,9 +1064,14 @@
         "url": "https://www.indigo.ca/products/justice-league-heroes-united-dc-compact-comics-adventures",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Justice+League%3A+Heroes+United+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "teen-titans-go-truth-justice-pizza",
@@ -956,7 +1096,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Teen+Titans+Go%21%3A+Truth%2C+Justice%2C+Pizza+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842133/teen-titans-go-truth-justice-pizza-dc-compact-comics-adventures-by-j-torres/9781799517177/",
@@ -967,9 +1107,14 @@
         "url": "https://www.indigo.ca/products/teen-titans-go-truth-justice-pizza-dc-compact-comics-adventures",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Teen+Titans+Go%21%3A+Truth%2C+Justice%2C+Pizza+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "green-lantern-rebirth",
@@ -989,7 +1134,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Green+Lantern%3A+Rebirth+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842159/green-lantern-rebirth-dc-compact-comics-edition-by-geoff-johns/9781799513704/",
@@ -1000,9 +1145,14 @@
         "url": "https://www.indigo.ca/products/green-lantern-rebirth-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Green+Lantern%3A+Rebirth+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "catwoman-when-in-rome",
@@ -1022,7 +1172,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Catwoman%3A+When+in+Rome+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842161/catwoman-when-in-rome-dc-compact-comics-edition-by-jeph-loeb/9781799513674/",
@@ -1033,9 +1183,14 @@
         "url": "https://www.indigo.ca/products/catwoman-when-in-rome-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Catwoman%3A+When+in+Rome+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batman-harley-and-ivy",
@@ -1066,9 +1221,14 @@
         "url": "https://www.indigo.ca/products/batman-harley-and-ivy-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batman%3A+Harley+and+Ivy+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "we3",
@@ -1099,9 +1259,14 @@
         "url": "https://www.indigo.ca/products/we3-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=We3+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "dc-the-new-frontier",
@@ -1132,9 +1297,14 @@
         "url": "https://www.indigo.ca/products/dc-the-new-frontier-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=DC%3A+The+New+Frontier+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batgirl-year-one",
@@ -1165,9 +1335,14 @@
         "url": "https://www.indigo.ca/products/batgirl-year-one-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batgirl%3A+Year+One+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "superman-red-son",
@@ -1198,9 +1373,14 @@
         "url": "https://www.indigo.ca/products/superman-red-son-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Superman%3A+Red+Son+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "superman-batman-book-one",
@@ -1231,9 +1411,14 @@
         "url": "https://www.indigo.ca/products/superman-batman-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Superman%2FBatman%3A+Book+One+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "superman-birthright",
@@ -1264,9 +1449,14 @@
         "url": "https://www.indigo.ca/products/superman-birthright-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Superman%3A+Birthright+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "fables-no-more-happily-ever-after",
@@ -1302,9 +1492,14 @@
         "url": "https://www.indigo.ca/products/fables-no-more-happily-ever-after-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Fables%3A+No+More+Happily+Ever+After+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "gotham-central",
@@ -1324,7 +1519,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Gotham+Central%3A+In+the+Line+of+Duty+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/811892/gotham-central-dc-compact-comics-edition-by-greg-rucka/9781799508076/",
@@ -1335,9 +1530,14 @@
         "url": "https://www.indigo.ca/products/gotham-central-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Gotham+Central%3A+In+the+Line+of+Duty+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "y-the-last-man-book-one",
@@ -1357,7 +1557,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Y%3A+The+Last+Man%3A+Book+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/796846/y-the-last-man-unmanned-dc-compact-comics-edition-by-various/9781799502890/",
@@ -1368,9 +1568,14 @@
         "url": "https://www.indigo.ca/products/y-the-last-man-unmanned-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Y%3A+The+Last+Man%3A+Book+One+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batman-hush",
@@ -1390,7 +1595,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batman%3A+Hush+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756672/batman-hush-dc-compact-comics-edition-by-jeph-loeb/9781779527264/",
@@ -1401,9 +1606,14 @@
         "url": "https://www.indigo.ca/products/batman-hush-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batman%3A+Hush+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "superboys-legion",
@@ -1419,6 +1629,10 @@
     "isbn": "9781799509721",
     "description": "In an alternate 31st Century Elseworlds, Kal-El's capsule is recovered in the 30th Century, inspiring him to form the Legion of Super-Heroes.",
     "era": "Modern (2000–2010)",
+    "hideLinks": [
+      "prh",
+      "bookshop"
+    ],
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=Superboy%27s+Legion+DC+Compact+Comics",
@@ -1427,16 +1641,21 @@
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/search/Superboy%27s%20Legion%20DC%20Compact%20Comics",
-        "status": "unknown",
-        "reason": "unverifiable"
+        "status": "unavailable",
+        "reason": "hidden-by-owner"
       },
       "indigo": {
         "url": "https://www.indigo.ca/en-ca/search?q=Superboy%27s+Legion+DC+Compact+Comics",
         "status": "unavailable",
         "reason": "no-title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Superboy%27s+Legion+DC+Compact+Comics",
+        "status": "unavailable",
+        "reason": "hidden-by-owner"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "catwoman-trail-of-the-catwoman",
@@ -1467,9 +1686,14 @@
         "url": "https://www.indigo.ca/products/catwoman-trail-of-the-catwoman-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Catwoman%3A+Trail+of+the+Catwoman+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "jla-tower-of-babel",
@@ -1500,9 +1724,14 @@
         "url": "https://www.indigo.ca/products/jla-the-tower-of-babel-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=JLA%3A+Tower+of+Babel+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "100-bullets-first-shot",
@@ -1533,9 +1762,14 @@
         "url": "https://www.indigo.ca/products/100-bullets-first-shot-last-call-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=100+Bullets%3A+First+Shot%2C+Last+Call+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "the-authority-book-one",
@@ -1566,9 +1800,14 @@
         "url": "https://www.indigo.ca/products/the-authority-book-one-new-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=The+Authority%3A+Book+One+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "superman-adventures-man-of-tomorrow",
@@ -1599,9 +1838,14 @@
         "url": "https://www.indigo.ca/products/superman-man-of-tomorrow-dc-compact-comics-adventures",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Superman+Adventures%3A+The+Man+of+Tomorrow+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batman-the-long-halloween",
@@ -1632,9 +1876,14 @@
         "url": "https://www.indigo.ca/products/batman-the-long-halloween-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batman%3A+The+Long+Halloween+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "kingdom-come",
@@ -1665,9 +1914,14 @@
         "url": "https://www.indigo.ca/products/kingdom-come-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Kingdom+Come+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "preacher-gone-to-texas",
@@ -1698,9 +1952,14 @@
         "url": "https://www.indigo.ca/products/preacher-gone-to-texas-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Preacher%3A+Gone+to+Texas+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "the-batman-adventures-dark-knight",
@@ -1731,9 +1990,14 @@
         "url": "https://www.indigo.ca/products/batman-the-dark-knight-dc-compact-comics-adventures",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=The+Batman+Adventures%3A+The+Dark+Knight+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "john-constantine-hellblazer-dangerous-habits",
@@ -1764,9 +2028,14 @@
         "url": "https://www.indigo.ca/products/john-constantine-hellblazer-dangerous-habits-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=John+Constantine%2C+Hellblazer%3A+Dangerous+Habits+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batman-gotham-by-gaslight",
@@ -1797,9 +2066,14 @@
         "url": "https://www.indigo.ca/products/batman-gotham-by-gaslight-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batman%3A+Gotham+by+Gaslight+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batman-arkham-asylum",
@@ -1830,9 +2104,14 @@
         "url": "https://www.indigo.ca/products/batman-arkham-asylum-dc-compact-comics",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batman%3A+Arkham+Asylum+%E2%80%93+A+Serious+House+on+Serious+Earth+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "superman-dc-compact-comics-box-set",
@@ -1869,9 +2148,14 @@
         "url": "https://www.indigo.ca/products/superman-dc-compact-comics-box-set",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Superman+DC+Compact+Comics+Box+Set+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "superman-the-man-of-steel",
@@ -1902,9 +2186,14 @@
         "url": "https://www.indigo.ca/products/superman-man-of-steel-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Superman%3A+The+Man+of+Steel+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "dc-compact-comics-box-set",
@@ -1941,9 +2230,14 @@
         "url": "https://www.indigo.ca/products/dc-compact-comics-box-set",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=DC+Compact+Comics+Box+Set+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "batman-the-dark-knight-returns",
@@ -1974,9 +2268,14 @@
         "url": "https://www.indigo.ca/products/batman-the-dark-knight-returns-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Batman%3A+The+Dark+Knight+Returns+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "watchmen",
@@ -2007,9 +2306,14 @@
         "url": "https://www.indigo.ca/products/watchmen-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Watchmen+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "crisis-on-infinite-earths",
@@ -2040,9 +2344,14 @@
         "url": "https://www.indigo.ca/products/crisis-on-infinite-earths-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Crisis+on+Infinite+Earths+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "swamp-thing-anatomy-lesson",
@@ -2073,9 +2382,14 @@
         "url": "https://www.indigo.ca/products/swamp-thing-the-anatomy-lesson-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=Swamp+Thing%3A+The+Anatomy+Lesson+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   },
   {
     "id": "v-for-vendetta",
@@ -2106,8 +2420,13 @@
         "url": "https://www.indigo.ca/products/v-for-vendetta-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
+      },
+      "bookshop": {
+        "url": "https://bookshop.org/beta-search?keywords=V+for+Vendetta+DC+Compact+Comics",
+        "status": "unknown",
+        "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
+    "linksCheckedAt": "2026-11-15T01:17:48.782610Z"
   }
 ]

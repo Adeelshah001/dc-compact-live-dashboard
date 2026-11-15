@@ -8,7 +8,8 @@ actually resolve to the book on each storefront, and records the result:
     "links": {
       "amazon": {"url": ..., "status": "available|unavailable|unknown", "reason": ...},
       "prh":    {...},
-      "indigo": {...}
+      "indigo": {...},
+      "bookshop": {...}
     },
     "linksCheckedAt": "<ISO-8601 UTC timestamp>"
 
@@ -59,6 +60,16 @@ Design principles (verified by probing, 2026-11-14):
   is approved (requires 3 qualifying sales). Stored Amazon URLs are
   title searches on amazon.com; the frontend swaps in amazon.ca for
   visitors in Canada.
+* Bookshop.org: product pages and search return Cloudflare 403s to
+  datacenter IPs (probed 2026-11-14), and product URLs carry an opaque
+  id, so availability cannot be verified from a server. Bookshop links
+  are recorded "unknown" with a "<title> DC Compact Comics" search URL,
+  the same fail-open treatment as Amazon.
+* Owner-pinned hides. An entry may carry "hideLinks": ["prh"] (any store
+  names); those stores are recorded "unavailable" with reason
+  "hidden-by-owner" regardless of the live check, so a deliberate hide
+  survives every daily run. Use only when absence is established outside
+  the check (e.g. exhaustive sitemap enumeration found no page).
 
 Stdlib only (no pip dependencies), so it runs unchanged in GitHub Actions.
 
@@ -378,6 +389,18 @@ def check_amazon(isbn, title):
     return "unknown", url, "unrecognized-page"
 
 
+def check_bookshop(isbn, title):
+    # Compact-edition title search. Bookshop.org cannot be verified from
+    # a server: its product pages and search return Cloudflare 403s to
+    # datacenter IPs (probed 2026-11-14, real and fake lookups alike), and
+    # product URLs carry an opaque id that cannot be built from the ISBN,
+    # so no request is made and the search is recorded "unknown"
+    # (fail-open, same treatment as Amazon). If the store ever becomes
+    # fetchable, this is the one place to add a live check.
+    url = "https://bookshop.org/beta-search?keywords=" + urllib.parse.quote_plus(search_query(title))
+    return "unknown", url, "unverifiable"
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -417,26 +440,41 @@ def main():
             time.sleep(args.delay)
             amazon_status, amazon_url, amazon_reason = check_amazon(isbn, title)
             time.sleep(args.delay)
+            bookshop_status, bookshop_url, bookshop_reason = check_bookshop(isbn, title)
         else:
             prh_status, prh_url, prh_reason = "unknown", "", "no-isbn"
             indigo_status, indigo_url, indigo_reason = "unknown", "", "no-isbn"
             amazon_status, amazon_url, amazon_reason = "unknown", "", "no-isbn"
+            bookshop_status, bookshop_url, bookshop_reason = "unknown", "", "no-isbn"
+
+        # Owner-pinned hides: force pinned stores hidden regardless of the
+        # live check, so a deliberate hide survives every daily run.
+        pinned = item.get("hideLinks") or []
+        if "prh" in pinned:
+            prh_status, prh_reason = "unavailable", "hidden-by-owner"
+        if "indigo" in pinned:
+            indigo_status, indigo_reason = "unavailable", "hidden-by-owner"
+        if "amazon" in pinned:
+            amazon_status, amazon_reason = "unavailable", "hidden-by-owner"
+        if "bookshop" in pinned:
+            bookshop_status, bookshop_reason = "unavailable", "hidden-by-owner"
 
         item["links"] = {
             "amazon": {"url": amazon_url, "status": amazon_status, "reason": amazon_reason},
             "prh": {"url": prh_url, "status": prh_status, "reason": prh_reason},
             "indigo": {"url": indigo_url, "status": indigo_status, "reason": indigo_reason},
+            "bookshop": {"url": bookshop_url, "status": bookshop_status, "reason": bookshop_reason},
         }
         item["linksCheckedAt"] = checked_at
 
-        for st in (amazon_status, prh_status, indigo_status):
+        for st in (amazon_status, prh_status, indigo_status, bookshop_status):
             counts[st] += 1
-        for store, st in (("amazon", amazon_status), ("prh", prh_status), ("indigo", indigo_status)):
+        for store, st in (("amazon", amazon_status), ("prh", prh_status), ("indigo", indigo_status), ("bookshop", bookshop_status)):
             if st == "unavailable":
                 hidden.append(f"{title} [{store}]")
         print(
             f"[{idx}/{len(items)}] {title[:52]:<52} "
-            f"amazon={amazon_status} prh={prh_status} indigo={indigo_status}",
+            f"amazon={amazon_status} prh={prh_status} indigo={indigo_status} bookshop={bookshop_status}",
             flush=True,
         )
 
