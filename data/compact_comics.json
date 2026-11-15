@@ -30,7 +30,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "supergirl-woman-of-tomorrow",
@@ -43,7 +43,7 @@
     "creators": "Tom King, Bilquis Evely, Matheus Lopes",
     "genre": "Sci-Fi",
     "pageCount": 216,
-    "isbn": "9781779529305",
+    "isbn": "9781799506904",
     "description": "Kara Zor-El joins an alien girl on an interstellar quest for vengeance, traveling across strange galaxies in this breathtaking epic fantasy space western.",
     "era": "Modern (2018–Present)",
     "links": {
@@ -63,7 +63,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "static-season-one",
@@ -76,7 +76,7 @@
     "creators": "Vita Ayala, Reginald Hudlin, Nikolas Draper-Ivey, Denys Cowan",
     "genre": "Superhero",
     "pageCount": 160,
-    "isbn": "9781779529244",
+    "isbn": "9781799501541",
     "description": "At Virgil Hawkins' first protest, tear gas mixed with an experimental compound gave dozens of people powers. Now Static must balance high school and protecting his city.",
     "era": "Modern (2018–Present)",
     "links": {
@@ -96,7 +96,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "dceased",
@@ -109,7 +109,7 @@
     "creators": "Tom Taylor, Trevor Hairsine, Stefano Gaudiano",
     "genre": "Horror",
     "pageCount": 240,
-    "isbn": "9781779529251",
+    "isbn": "9781799501633",
     "description": "A corrupted Anti-Life Equation spreads through digital screens turning billions into ravenous, rabid techno-zombies, threatening Earth and the Justice League.",
     "era": "Modern (2018–Present)",
     "links": {
@@ -129,7 +129,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "far-sector",
@@ -142,7 +142,7 @@
     "creators": "N.K. Jemisin, Jamal Campbell",
     "genre": "Sci-Fi",
     "pageCount": 312,
-    "isbn": "9781779527356",
+    "isbn": "9781779527295",
     "description": "Hugo Award-winning author N.K. Jemisin and Jamal Campbell introduce Sojourner 'Jo' Mullein, a rookie Green Lantern assigned to investigate the first murder in 500 years in the City Enduring.",
     "era": "Modern (2018–Present)",
     "links": {
@@ -162,7 +162,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "mister-miracle",
@@ -175,7 +175,7 @@
     "creators": "Tom King, Mitch Gerads",
     "genre": "Drama",
     "pageCount": 312,
-    "isbn": "9781799509813",
+    "isbn": "9781799509790",
     "description": "Scott Free is the greatest escape artist in the universe, but can he escape suicide, domestic exhaustion, and an ongoing cosmic war against Apokolips? Darkseid Is.",
     "era": "Modern (2011–2017)",
     "links": {
@@ -195,7 +195,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "dark-nights-metal",
@@ -208,7 +208,7 @@
     "creators": "Scott Snyder, Greg Capullo, Jonathan Glapion",
     "genre": "Superhero",
     "pageCount": 216,
-    "isbn": "9781799509752",
+    "isbn": "9781799508809",
     "description": "The Dark Multiverse invades the prime DC Universe, unleashing the Batman Who Laughs and nightmare Batmen forged from Bruce Wayne's deepest fears.",
     "era": "Modern (2011–2017)",
     "links": {
@@ -228,7 +228,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batman-white-knight",
@@ -241,7 +241,7 @@
     "creators": "Sean Gordon Murphy, Matt Hollingsworth",
     "genre": "Thriller",
     "pageCount": 232,
-    "isbn": "9781799509745",
+    "isbn": "9781799507413",
     "description": "In an alternate Gotham, Joker is cured of his insanity and assumes the identity of Jack Napier, waging a legal campaign against Batman's unchecked vigilante devastation.",
     "era": "Modern (2011–2017)",
     "links": {
@@ -261,7 +261,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "wonder-woman-year-one",
@@ -286,7 +286,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Wonder+Woman%3A+Year+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842162/wonder-woman-year-one--dc-compact-comics-edition-by-greg-rucka/9781799513667/",
@@ -299,7 +299,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "wonder-woman-earth-one",
@@ -319,7 +319,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Wonder+Woman%3A+Earth+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756699/wonder-woman-earth-one-dc-compact-comics-edition-by-grant-morrison/9781779527332/",
@@ -332,7 +332,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batgirl-of-burnside",
@@ -345,14 +345,14 @@
     "creators": "Brenden Fletcher, Cameron Stewart, Babs Tarr",
     "genre": "Adventure",
     "pageCount": 160,
-    "isbn": "9781799509738",
+    "isbn": "9781799508557",
     "description": "Barbara Gordon relocates to Burnside, Gotham's trendiest neighborhood, building a fresh DIY costume, social media life, and crime-fighting crew.",
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batgirl+of+Burnside+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/809079/batgirl-of-burnside-dc-compact-comics-edition-by-cameron-stewart/9781799508557/",
@@ -365,7 +365,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "injustice-gods-among-us-year-one",
@@ -378,14 +378,14 @@
     "creators": "Tom Taylor, Jheremy Raapack, Mike S. Miller",
     "genre": "Action",
     "pageCount": 304,
-    "isbn": "9781799509769",
+    "isbn": "9781799508564",
     "description": "After the Joker tricks Superman into destroying Metropolis and Lois Lane, Superman establishes a ruthless global dictatorship, igniting war against Batman's resistance.",
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=Injustice%3A+Gods+Among+Us%3A+Year+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/809077/injustice-gods-among-us-year-one-dc-compact-comics-edition-by-tom-taylor/9781799508564/",
@@ -398,7 +398,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "harley-quinn-wild-at-heart",
@@ -411,14 +411,14 @@
     "creators": "Amanda Conner, Jimmy Palmiotti, Chad Hardin",
     "genre": "Comedy",
     "pageCount": 224,
-    "isbn": "9781779529329",
+    "isbn": "9781799503033",
     "description": "Harley leaves the Joker and Gotham behind to start fresh in Coney Island, managing an apartment building, roller derby bouts, and assassin bounties.",
     "era": "Modern (2011–2017)",
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=Harley+Quinn%3A+Wild+at+Heart+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/796852/harley-quinn-wild-at-heart-dc-compact-comics-edition-by-various/9781799503033/",
@@ -431,7 +431,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "justice-league-origin",
@@ -451,7 +451,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Justice+League%3A+Origin+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828544/justice-league-origin-dc-compact-comics-edition-by-geoff-johns/9781799509806/",
@@ -464,7 +464,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "wonder-woman-blood-and-guts",
@@ -477,7 +477,7 @@
     "creators": "Brian Azzarello, Cliff Chiang",
     "genre": "Fantasy",
     "pageCount": 160,
-    "isbn": "9781779529299",
+    "isbn": "9781799502494",
     "description": "Zeus disappears and the Olympian gods turn on one another in a bloodthirsty civil war, dragging Diana into dark divine family intrigue.",
     "era": "Modern (2011–2017)",
     "links": {
@@ -497,7 +497,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batman-court-of-owls",
@@ -530,7 +530,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "american-vampire-book-one",
@@ -543,14 +543,14 @@
     "creators": "Scott Snyder, Stephen King, Rafael Albuquerque",
     "genre": "Horror",
     "pageCount": 264,
-    "isbn": "9781779527325",
+    "isbn": "9781779527349",
     "description": "Traces the evolution of an American vampire species fueled by sunlight and rattlesnake venom, featuring Skinner Sweet and Pearl Jones across American history.",
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=American+Vampire%3A+Book+One+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756700/american-vampire-book-one-dc-compact-comics-edition-by-scott-nyder/9781779527349/",
@@ -563,7 +563,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "the-flash-rebirth",
@@ -576,14 +576,14 @@
     "creators": "Geoff Johns, Ethan Van Sciver",
     "genre": "Sci-Fi",
     "pageCount": 168,
-    "isbn": "9781799504191",
+    "isbn": "9781799507697",
     "description": "Barry Allen returns from the Speed Force, but his resurrection unleashes a sinister corrupting frequency engineered by Professor Zoom.",
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=The+Flash%3A+Rebirth+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/811898/the-flash-rebirth-dc-compact-comics-edition-by-geoff-johns/9781799507697/",
@@ -596,7 +596,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batwoman-elegy",
@@ -609,14 +609,14 @@
     "creators": "Greg Rucka, J.H. Williams III",
     "genre": "Mystery",
     "pageCount": 192,
-    "isbn": "9781779529268",
+    "isbn": "9781799501824",
     "description": "Kate Kane battles the Religion of Crime led by the crazed Alice, paired with gorgeous panel architecture and origin revelations.",
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batwoman%3A+Elegy+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "unrecognized-page"
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/773602/batwoman-elegy-dc-compact-comics-edition-by-greg-rucka/9781799501824/",
@@ -629,7 +629,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "harley-quinn-gotham-city-sirens",
@@ -642,7 +642,7 @@
     "creators": "Paul Dini, Guillem March",
     "genre": "Crime",
     "pageCount": 176,
-    "isbn": "9781779527295",
+    "isbn": "9781779527301",
     "description": "Catwoman, Poison Ivy, and Harley Quinn move in together to protect each other and run Gotham their own chaotic way.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -662,7 +662,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "superman-brainiac",
@@ -675,7 +675,7 @@
     "creators": "Geoff Johns, Gary Frank, Jon Sibal",
     "genre": "Sci-Fi",
     "pageCount": 128,
-    "isbn": "9781799513810",
+    "isbn": "9781799519249",
     "description": "Superman faces the true, terrifying extraterrestrial cyborg Brainiac who bottled the Kryptonian city of Kandor.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -695,7 +695,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "joker",
@@ -728,7 +728,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "green-arrow-year-one",
@@ -741,7 +741,7 @@
     "creators": "Andy Diggle, Jock",
     "genre": "Adventure",
     "pageCount": 160,
-    "isbn": "9781799504115",
+    "isbn": "9781799508083",
     "description": "Billionaire playboy Oliver Queen is betrayed and stranded on a deserted island, forcing him to master archery to survive and liberate its captive workers.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -761,7 +761,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batman-and-son",
@@ -774,7 +774,7 @@
     "creators": "Grant Morrison, Andy Kubert, Jesse Delperdang",
     "genre": "Action",
     "pageCount": 200,
-    "isbn": "9781799509714",
+    "isbn": "9781799508793",
     "description": "Talia al Ghul introduces Bruce Wayne to the lethal son he never knew he fathered: Damian Wayne, a lethal prodigy raised by the League of Assassins.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -794,7 +794,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batman-under-the-red-hood",
@@ -807,14 +807,14 @@
     "creators": "Judd Winick, Doug Mahnke, Paul Lee",
     "genre": "Thriller",
     "pageCount": 304,
-    "isbn": "9781799504139",
+    "isbn": "9781799508212",
     "description": "A mysterious vigilante named the Red Hood assumes command of Gotham's drug trade, revealing a haunting connection to Batman's greatest failure: Jason Todd.",
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batman%3A+Under+the+Red+Hood+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/811897/batman-under-the-red-hood-dc-compact-comics-edition-by-judd-winick/9781799508212/",
@@ -827,7 +827,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "all-star-superman",
@@ -840,14 +840,14 @@
     "creators": "Grant Morrison, Frank Quitely, Jamie Grant",
     "genre": "Sci-Fi",
     "pageCount": 304,
-    "isbn": "9781779527264",
+    "isbn": "9781779527257",
     "description": "Dying of solar cellular decay, the Man of Steel sets out to accomplish twelve heroic labours to secure Earth's future before his time runs out.",
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=All-Star+Superman+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756671/all-star-superman-dc-compact-comics-edition-by-grant-morrison/9781779527257/",
@@ -860,7 +860,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "superman-secret-identity",
@@ -873,14 +873,14 @@
     "creators": "Kurt Busiek, Stuart Immonen",
     "genre": "Drama",
     "pageCount": 208,
-    "isbn": "9781799513827",
+    "isbn": "9781799513728",
     "description": "In a real world where Superman is just a comic book character, a Kansas boy named Clark Kent suddenly discovers he actually possesses the Man of Steel's powers.",
     "era": "Modern (2000–2010)",
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=Superman%3A+Secret+Identity+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/865381/superman-secret-identity--dc-compact-comics-edition-by-kurt-busiek/9781799513728/",
@@ -893,7 +893,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "justice-league-heroes-united",
@@ -918,7 +918,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Justice+League%3A+Heroes+United+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842134/justice-league-heroes-united-dc-compact-comics-adventures-by-beechen-adam/9781799517160/",
@@ -931,7 +931,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "teen-titans-go-truth-justice-pizza",
@@ -956,7 +956,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Teen+Titans+Go%21%3A+Truth%2C+Justice%2C+Pizza+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842133/teen-titans-go-truth-justice-pizza-dc-compact-comics-adventures-by-j-torres/9781799517177/",
@@ -969,7 +969,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "green-lantern-rebirth",
@@ -989,7 +989,7 @@
       "amazon": {
         "url": "https://www.amazon.com/s?k=Green+Lantern%3A+Rebirth+DC+Compact+Comics",
         "status": "unknown",
-        "reason": "bot-challenge"
+        "reason": "unrecognized-page"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/842159/green-lantern-rebirth-dc-compact-comics-edition-by-geoff-johns/9781799513704/",
@@ -1002,7 +1002,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "catwoman-when-in-rome",
@@ -1015,7 +1015,7 @@
     "creators": "Jeph Loeb, Tim Sale",
     "genre": "Mystery",
     "pageCount": 152,
-    "isbn": "9781799513780",
+    "isbn": "9781799513674",
     "description": "Selina Kyle and the Riddler journey to Italy to unlock the secret of her mobster parentage during the events of The Long Halloween and Dark Victory.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1035,7 +1035,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batman-harley-and-ivy",
@@ -1048,7 +1048,7 @@
     "creators": "Paul Dini, Bruce Timm",
     "genre": "Comedy",
     "pageCount": 136,
-    "isbn": "9781799509783",
+    "isbn": "9781799509301",
     "description": "Classic animated adventures with Gotham's favorite dynamic duo of villainy pulling off hilarious capers across Gotham and Hollywood.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1068,7 +1068,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "we3",
@@ -1081,7 +1081,7 @@
     "creators": "Grant Morrison, Frank Quitely",
     "genre": "Sci-Fi",
     "pageCount": 144,
-    "isbn": "9781779529367",
+    "isbn": "9781799503255",
     "description": "Three weaponized cybernetic household pets—a dog, cat, and rabbit—escape a clandestine military lab in search of 'home'.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1101,7 +1101,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "dc-the-new-frontier",
@@ -1114,7 +1114,7 @@
     "creators": "Darwyn Cooke, Dave Stewart",
     "genre": "Historical",
     "pageCount": 408,
-    "isbn": "9781779529282",
+    "isbn": "9781799502340",
     "description": "Darwyn Cooke's masterwork bridges the Golden and Silver Ages through the lens of Cold War paranoia, aviation, civil rights, and cosmic wonder.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1134,7 +1134,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batgirl-year-one",
@@ -1147,7 +1147,7 @@
     "creators": "Scott Beatty, Chuck Dixon, Marcos Martin, Alvaro Lopez",
     "genre": "Superhero",
     "pageCount": 224,
-    "isbn": "9781799513759",
+    "isbn": "9781799513643",
     "description": "Barbara Gordon strives to become a hero despite the protective objections of her father, Commissioner James Gordon, and the Dark Knight himself.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1167,7 +1167,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "superman-red-son",
@@ -1180,7 +1180,7 @@
     "creators": "Mark Millar, Dave Johnson, Kilian Plunkett",
     "genre": "Elseworlds",
     "pageCount": 168,
-    "isbn": "9781799504177",
+    "isbn": "9781799508281",
     "description": "What if baby Kal-El's rocket ship had landed in the Soviet Union instead of Kansas? Superman becomes the champion of the common worker and Soviet state leader.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1200,7 +1200,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "superman-batman-book-one",
@@ -1213,7 +1213,7 @@
     "creators": "Jeph Loeb, Ed McGuinness, Michael Turner",
     "genre": "Action",
     "pageCount": 336,
-    "isbn": "9781779529336",
+    "isbn": "9781799502135",
     "description": "President Lex Luthor places a billion-dollar bounty on the World's Finest, followed by the dramatic arrival of Supergirl on Earth.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1233,7 +1233,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "superman-birthright",
@@ -1246,7 +1246,7 @@
     "creators": "Mark Waid, Leinil Francis Yu, Gerry Alanguilan",
     "genre": "Superhero",
     "pageCount": 304,
-    "isbn": "9781779529275",
+    "isbn": "9781799501916",
     "description": "A 21st-century origin story tracking Clark Kent's travels as an international photojournalist to his debut in Metropolis fighting Lex Luthor's false-flag invasion.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1266,7 +1266,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "fables-no-more-happily-ever-after",
@@ -1304,7 +1304,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "gotham-central",
@@ -1317,7 +1317,7 @@
     "creators": "Ed Brubaker, Greg Rucka, Michael Lark",
     "genre": "Noir",
     "pageCount": 240,
-    "isbn": "9781799504108",
+    "isbn": "9781799508076",
     "description": "Ground-level detectives of the Gotham City Police Department work the Major Crimes Unit, dealing with rogue supervillains without Batman's superpowers.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1337,7 +1337,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "y-the-last-man-book-one",
@@ -1350,7 +1350,7 @@
     "creators": "Brian K. Vaughan, Pia Guerra, José Marzán Jr.",
     "genre": "Sci-Fi",
     "pageCount": 256,
-    "isbn": "9781779529350",
+    "isbn": "9781799502890",
     "description": "A plague spontaneously wipes out every living mammal with a Y chromosome, except for an amateur escape artist named Yorick Brown and his pet monkey Ampersand.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1370,7 +1370,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batman-hush",
@@ -1383,7 +1383,7 @@
     "creators": "Jeph Loeb, Jim Lee, Scott Williams",
     "genre": "Mystery",
     "pageCount": 320,
-    "isbn": "9781779527240",
+    "isbn": "9781779527264",
     "description": "A mysterious stalker with bandaged face manipulates Batman's entire rogue gallery in a calculated psychological campaign to ruin his life.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1403,7 +1403,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "superboys-legion",
@@ -1436,7 +1436,7 @@
         "reason": "no-title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "catwoman-trail-of-the-catwoman",
@@ -1449,7 +1449,7 @@
     "creators": "Ed Brubaker, Darwyn Cooke, Mike Allred",
     "genre": "Crime",
     "pageCount": 336,
-    "isbn": "9781779527349",
+    "isbn": "9781779527288",
     "description": "Slam Bradley investigates Selina Kyle's faked death, leading to her iconic leather catsuit redesign and defender-of-the-East-End reinvention.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1469,7 +1469,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "jla-tower-of-babel",
@@ -1482,7 +1482,7 @@
     "creators": "Mark Waid, Howard Porter, Steve Scott",
     "genre": "Superhero",
     "pageCount": 160,
-    "isbn": "9781799513728",
+    "isbn": "9781799513711",
     "description": "Ra's al Ghul steals Batman's secret tactical contingency plans designed to neutralize every member of the Justice League if they went rogue.",
     "era": "Modern (2000–2010)",
     "links": {
@@ -1502,7 +1502,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "100-bullets-first-shot",
@@ -1515,7 +1515,7 @@
     "creators": "Brian Azzarello, Eduardo Risso",
     "genre": "Crime",
     "pageCount": 128,
-    "isbn": "9781799513735",
+    "isbn": "9781799510703",
     "description": "Agent Graves approaches wronged people with an attaché case containing an untraceable gun, 100 untraceable bullets, and irrefutable proof of who ruined their lives.",
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
@@ -1535,7 +1535,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "the-authority-book-one",
@@ -1548,7 +1548,7 @@
     "creators": "Warren Ellis, Bryan Hitch, Paul Neary",
     "genre": "Sci-Fi",
     "pageCount": 296,
-    "isbn": "9781779529343",
+    "isbn": "9781799501992",
     "description": "The definitive widescreen superhero epic following Jenny Sparks, Midnighter, Apollo, and team enforcing planetary order against cosmic threats.",
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
@@ -1568,7 +1568,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "superman-adventures-man-of-tomorrow",
@@ -1581,7 +1581,7 @@
     "creators": "Paul Dini, Rick Burchett, Terry Austin",
     "genre": "All-Ages",
     "pageCount": 152,
-    "isbn": "9781799513773",
+    "isbn": "9781799517153",
     "description": "Classic all-ages adventures set in the timeless DC Animated Universe (Superman: The Animated Series).",
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
@@ -1601,7 +1601,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batman-the-long-halloween",
@@ -1614,7 +1614,7 @@
     "creators": "Jeph Loeb, Tim Sale",
     "genre": "Noir",
     "pageCount": 384,
-    "isbn": "9781779529312",
+    "isbn": "9781799502883",
     "description": "Over the course of a full year, Batman, Jim Gordon, and Harvey Dent hunt a serial killer named Holiday who only executes targets on holiday dates.",
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
@@ -1634,7 +1634,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "kingdom-come",
@@ -1647,7 +1647,7 @@
     "creators": "Mark Waid, Alex Ross",
     "genre": "Mythic",
     "pageCount": 232,
-    "isbn": "9781779529237",
+    "isbn": "9781799501299",
     "description": "In a future where reckless new vigilantes cause catastrophic casualties, Superman steps out of exile to rebuild the old guard in this painted masterpiece.",
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
@@ -1667,7 +1667,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "preacher-gone-to-texas",
@@ -1680,7 +1680,7 @@
     "creators": "Garth Ennis, Steve Dillon",
     "genre": "Dark Fantasy",
     "pageCount": 200,
-    "isbn": "9781799513742",
+    "isbn": "9781799510710",
     "description": "Texas preacher Jesse Custer is bonded with a divine runaway entity giving him the Word of God, embarking across America to literally find the Almighty.",
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
@@ -1700,7 +1700,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "the-batman-adventures-dark-knight",
@@ -1713,7 +1713,7 @@
     "creators": "Kelley Puckett, Mike Parobeck, Rick Burchett",
     "genre": "All-Ages",
     "pageCount": 152,
-    "isbn": "9781799513766",
+    "isbn": "9781799517146",
     "description": "Pure Batman: The Animated Series comic magic, featuring the Joker, Catwoman, Penguin, and the timeless Bruce Timm art style.",
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
@@ -1733,7 +1733,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "john-constantine-hellblazer-dangerous-habits",
@@ -1746,7 +1746,7 @@
     "creators": "Garth Ennis, Will Simpson, Mark Pennington",
     "genre": "Occult",
     "pageCount": 160,
-    "isbn": "9781799513797",
+    "isbn": "9781799513681",
     "description": "Dying of terminal lung cancer, street occultist John Constantine pulls off his greatest, most brazen con against the Three Lords of Hell.",
     "era": "Dark Age / 90s (1990–1999)",
     "links": {
@@ -1766,7 +1766,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batman-gotham-by-gaslight",
@@ -1779,7 +1779,7 @@
     "creators": "Brian Augustyn, Mike Mignola, Eduardo Barreto",
     "genre": "Steampunk",
     "pageCount": 112,
-    "isbn": "9781799504122",
+    "isbn": "9781799506652",
     "description": "DC's very first Elseworlds tale pits an 1889 Victorian Batman against Jack the Ripper after the notorious killer arrives in Gotham City.",
     "era": "Copper Age (1984–1989)",
     "links": {
@@ -1799,7 +1799,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batman-arkham-asylum",
@@ -1812,7 +1812,7 @@
     "creators": "Grant Morrison, Dave McKean",
     "genre": "Horror",
     "pageCount": 216,
-    "isbn": "9781779529374",
+    "isbn": "9781799506997",
     "description": "Inmates seize control of Arkham Asylum on April Fools' Day, demanding Batman enter alone to face his deepest psychological horrors and Dave McKean's surrealist art.",
     "era": "Copper Age (1984–1989)",
     "links": {
@@ -1832,7 +1832,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "superman-dc-compact-comics-box-set",
@@ -1871,7 +1871,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "superman-the-man-of-steel",
@@ -1884,7 +1884,7 @@
     "creators": "John Byrne, Dick Giordano",
     "genre": "Origin",
     "pageCount": 152,
-    "isbn": "9781799513803",
+    "isbn": "9781799513650",
     "description": "John Byrne's landmark Post-Crisis reinvention of Superman, establishing the modern foundation of Krypton, Clark Kent's humanity, and corporate Lex Luthor.",
     "era": "Copper Age (1984–1989)",
     "links": {
@@ -1904,7 +1904,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "dc-compact-comics-box-set",
@@ -1943,7 +1943,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "batman-the-dark-knight-returns",
@@ -1956,7 +1956,7 @@
     "creators": "Frank Miller, Klaus Janson, Lynn Varley",
     "genre": "Dystopian",
     "pageCount": 208,
-    "isbn": "9781799504184",
+    "isbn": "9781799507864",
     "description": "A 55-year-old Bruce Wayne comes out of retirement in a crumbling, crime-ridden Gotham, battling the Mutants, the Joker, and ultimately the government's pawn: Superman.",
     "era": "Copper Age (1984–1989)",
     "links": {
@@ -1976,7 +1976,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "watchmen",
@@ -1989,7 +1989,7 @@
     "creators": "Alan Moore, Dave Gibbons, John Higgins",
     "genre": "Mystery",
     "pageCount": 416,
-    "isbn": "9781779527257",
+    "isbn": "9781779527325",
     "description": "The murder of the Comedian unravels a wide-ranging conspiracy at the height of the Cold War, deconstructing the very concept of superheroes.",
     "era": "Copper Age (1984–1989)",
     "links": {
@@ -2009,7 +2009,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "crisis-on-infinite-earths",
@@ -2022,7 +2022,7 @@
     "creators": "Marv Wolfman, George Pérez, Dick Giordano",
     "genre": "Multiverse Epic",
     "pageCount": 368,
-    "isbn": "9781799509790",
+    "isbn": "9781799509608",
     "description": "The Anti-Monitor sweeps across the multiverse consuming parallel Earths in antimatter, forcing heroes and villains from every reality to make the ultimate sacrifice.",
     "era": "Copper Age (1984–1989)",
     "links": {
@@ -2042,7 +2042,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "swamp-thing-anatomy-lesson",
@@ -2055,7 +2055,7 @@
     "creators": "Alan Moore, Stephen R. Bissette, John Totleben",
     "genre": "Horror",
     "pageCount": 208,
-    "isbn": "9781799509776",
+    "isbn": "9781799509295",
     "description": "Alan Moore shatters Alec Holland's identity: he was never a human turned into a monster, but a sentient plant that believed it was a man. An immortal gothic horror revolution.",
     "era": "Copper Age (1984–1989)",
     "links": {
@@ -2075,7 +2075,7 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   },
   {
     "id": "v-for-vendetta",
@@ -2088,7 +2088,7 @@
     "creators": "Alan Moore, David Lloyd",
     "genre": "Dystopian",
     "pageCount": 296,
-    "isbn": "9781779529381",
+    "isbn": "9781799503132",
     "description": "In a totalitarian post-nuclear Britain ruled by the fascist Norsefire regime, a masked anarchist named V wages an intricate theatrical campaign of revolution.",
     "era": "Bronze Age (1970–1983)",
     "links": {
@@ -2108,6 +2108,6 @@
         "reason": "title-match"
       }
     },
-    "linksCheckedAt": "2026-11-15T00:33:52.998034Z"
+    "linksCheckedAt": "2026-11-15T01:00:26.959186Z"
   }
 ]

@@ -78,7 +78,7 @@
             <h1 class="text-base font-bold text-white tracking-tight">DC Compact Comics</h1>
             <span class="text-xs px-2 py-0.5 rounded-full bg-blue-500/10 border border-blue-500/30 text-blue-400 font-mono">Live Dashboard</span>
           </div>
-          <p class="text-xs text-slate-400">Sorted by Original Inside Issue Release Year (Newest → Oldest)</p>
+          <p class="text-xs text-slate-400">Sorted by DC Compact Comics Release Date (Newest First)</p>
         </div>
       </div>
 
@@ -99,12 +99,6 @@
         <button onclick="checkLiveUpdates()" title="Check online solicitations" class="px-3 py-1.5 rounded-lg bg-emerald-500/15 border border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/25 text-xs font-medium flex items-center gap-1.5 transition">
           <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
           Live Sync
-        </button>
-        <button onclick="openAddModal()" class="px-3 py-1.5 rounded-lg bg-white/10 hover:bg-white/15 border border-white/10 text-white text-xs font-medium flex items-center gap-1 transition">
-          + Add Title
-        </button>
-        <button onclick="exportData()" title="Export JSON database" class="px-2.5 py-1.5 rounded-lg bg-white/5 hover:bg-white/10 border border-white/10 text-slate-300 text-xs transition">
-          Export
         </button>
       </div>
 
@@ -142,12 +136,12 @@
           <option value="Bronze Age (1970–1983)">1982–1983 (Bronze Age Roots)</option>
         </select>
 
-        <!-- Sort Select (Default: Inside Issue Year Newest -> Oldest) -->
+        <!-- Sort Select (Default: DC Compact Date Newest First) -->
         <select id="sortSelect" onchange="filterTitles()" class="bg-slate-800/80 border border-blue-500/40 text-blue-300 rounded-xl px-3 py-1.5 focus:outline-none font-medium">
-          <option value="inside-desc" selected>Inside Issues: Newest → Oldest</option>
-          <option value="inside-asc">Inside Issues: Oldest → Newest</option>
-          <option value="compact-desc">DC Compact Date: Newest First</option>
+          <option value="compact-desc" selected>DC Compact Date: Newest First</option>
           <option value="compact-asc">DC Compact Date: Oldest First</option>
+          <option value="inside-desc">Inside Issues: Newest → Oldest</option>
+          <option value="inside-asc">Inside Issues: Oldest → Newest</option>
           <option value="title-asc">Title: A → Z</option>
         </select>
 
