@@ -370,6 +370,7 @@ def enrich(prh_id, sitemap_url, delay):
         "genre": "All-Ages" if meta["is_adventures"] else "Unknown",
         "pageCount": meta["pages"],
         "isbn": meta["isbn"],
+        "coverUrl": f"https://images2.penguinrandomhouse.com/cover/{meta['isbn']}",
         "description": meta["collects_sentence"] or (
             "DC Compact Comics edition — full details pending review."
         ),
