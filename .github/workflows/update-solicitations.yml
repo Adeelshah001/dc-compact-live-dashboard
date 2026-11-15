@@ -25,6 +25,10 @@ jobs:
         run: |
           python update_compact_comics.py
 
+      - name: Discover New Compact Editions (PRH sitemaps)
+        run: |
+          python discover_compact_comics.py
+          
       - name: Verify Buy Links (Amazon / PRH / Indigo)
         run: |
           python check_buy_links.py
