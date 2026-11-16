@@ -9,8 +9,8 @@ A clean, live dashboard cataloging all released and upcoming **DC Compact Comics
 ## Features
 
 - **Inside Issue Chronology:** Strictly sorted from newest (2021) to oldest (1982) by the original publication year of the inside material.
-- **Where to Buy:** Purchase links for every book to **Amazon**, **Penguin Random House**, and **Indigo (Chapters)**, verified daily — a store's link is hidden when the book is confirmed unavailable there (see `check_buy_links.py`).
-- **Dual Views:** Switch between **Card Matrix** (grid) and **Chronological Stream** (timeline).
+- **Where to Buy:** Purchase links for every book to **Amazon**, **Penguin Random House**, **Indigo (Chapters)**, and **Bookshop.org**, verified daily — a store's link is hidden when the book is confirmed unavailable there (see `check_buy_links.py`).
+- **Cover Art Backgrounds:** Each card and the detail view show the book's official cover art, blurred behind the text.
 - **Instant Search & Era Filters:** Real-time search across titles, creators, and collected issues, with era toggles (Modern, 90s, Copper/Bronze).
 - **Daily Automated Updates:** Daily GitHub Actions workflow checks for new solicitations, verifies every buy link, and automatically triggers Vercel redeployments.
 
