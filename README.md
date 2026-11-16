@@ -6,12 +6,6 @@ A clean, live dashboard cataloging all released and upcoming **DC Compact Comics
 
 ---
 
-## Preview
-
-![DC Compact Comics Live Dashboard Screenshot](webview.jpg)
-
----
-
 ## Features
 
 - **Inside Issue Chronology:** Strictly sorted from newest (2021) to oldest (1982) by the original publication year of the inside material.
