@@ -101,6 +101,12 @@ page count, collected issues, official cover art, and buy links.
   sorts remain as options.
 - Cover art: official PRH hotlinked covers as card backgrounds, blur(4px).
   The detail modal uses the same background, and its image loads eagerly.
+- Detail modal: on desktop (md and up) the cover also shows as a side
+  panel next to the details and the modal is wider (md:max-w-3xl); the panel
+  stays hidden on phones. Background overlay darkened to
+  rgba(15,18,26,0.85). (Contributor change, Nov 2026 — keep.)
+- Detail modal badge row wraps on narrow screens so the release-date pill
+  never runs under the close button. (Fix, Nov 21 2026.)
 - Era filters: Modern, 90s, Copper/Bronze.
 
 ## On hold (do not start)

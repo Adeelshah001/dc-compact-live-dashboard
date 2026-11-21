@@ -521,7 +521,7 @@
           <div class="flex flex-col md:flex-row gap-6 items-start">
             ${coverImgHtml}
             <div class="flex-1 w-full space-y-4">
-              <div class="flex items-center justify-between pr-8 md:pr-0">
+              <div class="flex flex-wrap items-center justify-between gap-2 pr-8 md:pr-0">
                 <span class="badge-year px-3 py-1 rounded-xl text-sm font-black">Inside Issue Release: ${c.originalIssueYear || '—'}</span>
                 <span class="${c.status === 'Released' ? 'badge-compact' : 'badge-upcoming'} px-3 py-1 rounded-full text-xs font-semibold">
                   ${c.status} (${c.compactReleaseDate})
