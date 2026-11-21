@@ -191,8 +191,8 @@
 
   <!-- DETAIL MODAL SLIDEOUT -->
   <div id="detailModal" class="fixed inset-0 z-50 bg-black/70 backdrop-blur-sm hidden flex items-center justify-center p-4">
-    <div class="space-glass max-w-xl w-full rounded-3xl p-6 relative shadow-2xl border border-white/20" style="overflow:hidden">
-      <button onclick="closeModal()" style="z-index:1" class="absolute top-4 right-4 text-slate-400 hover:text-white text-lg">✕</button>
+    <div id="modalWrapper" class="space-glass max-w-xl md:max-w-3xl w-full rounded-3xl p-6 relative shadow-2xl border border-white/20" style="overflow:hidden">
+      <button onclick="closeModal()" style="z-index:2" class="absolute top-4 right-4 text-slate-400 hover:text-white text-lg">✕</button>
       <div id="modalContent"></div>
     </div>
   </div>
@@ -507,38 +507,50 @@
         : `<div class="text-xs text-slate-500 pt-1">No purchase links currently verified for this title — check back soon.</div>`;
       const modal = document.getElementById('detailModal');
       const content = document.getElementById('modalContent');
-      const modalCoverBg = c.coverUrl ? `<div aria-hidden="true" style="position:absolute;inset:0;z-index:0;pointer-events:none;overflow:hidden"><img src="${c.coverUrl}" alt="" decoding="async" onerror="this.parentElement.style.display='none'" style="width:100%;height:100%;object-fit:cover;object-position:center 75%;transform:scale(1.25);filter:blur(4px)"><div style="position:absolute;inset:0;background:rgba(15,18,26,0.72)"></div></div>` : '';
+      const modalCoverBg = c.coverUrl ? `<div aria-hidden="true" style="position:absolute;inset:0;z-index:0;pointer-events:none;overflow:hidden"><img src="${c.coverUrl}" alt="" decoding="async" onerror="this.parentElement.style.display='none'" style="width:100%;height:100%;object-fit:cover;object-position:center 75%;transform:scale(1.25);filter:blur(4px)"><div style="position:absolute;inset:0;background:rgba(15,18,26,0.85)"></div></div>` : '';
+      
+      const coverImgHtml = c.coverUrl ? `
+        <div class="hidden md:block flex-shrink-0 w-48 rounded-2xl overflow-hidden shadow-2xl border border-white/10 bg-slate-950">
+          <img src="${c.coverUrl}" alt="${c.title}" class="w-full h-auto object-cover" onerror="this.parentElement.style.display='none'">
+        </div>
+      ` : '';
+
       content.innerHTML = `
         ${modalCoverBg}
         <div class="space-y-4" style="position:relative;z-index:1">
-          <div class="flex items-center justify-between pr-6">
-            <span class="badge-year px-3 py-1 rounded-xl text-sm font-black">Inside Issue Release: ${c.originalIssueYear || '—'}</span>
-            <span class="${c.status === 'Released' ? 'badge-compact' : 'badge-upcoming'} px-3 py-1 rounded-full text-xs font-semibold">
-              ${c.status} (${c.compactReleaseDate})
-            </span>
-          </div>
+          <div class="flex flex-col md:flex-row gap-6 items-start">
+            ${coverImgHtml}
+            <div class="flex-1 w-full space-y-4">
+              <div class="flex items-center justify-between pr-8 md:pr-0">
+                <span class="badge-year px-3 py-1 rounded-xl text-sm font-black">Inside Issue Release: ${c.originalIssueYear || '—'}</span>
+                <span class="${c.status === 'Released' ? 'badge-compact' : 'badge-upcoming'} px-3 py-1 rounded-full text-xs font-semibold">
+                  ${c.status} (${c.compactReleaseDate})
+                </span>
+              </div>
 
-          <h2 class="text-xl font-bold text-white">${c.title}</h2>
-          <p class="text-xs text-slate-300"><strong class="text-white">Creators:</strong> ${c.creators}</p>
+              <h2 class="text-xl font-bold text-white">${c.title}</h2>
+              <p class="text-xs text-slate-300"><strong class="text-white">Creators:</strong> ${c.creators}</p>
 
-          <div class="p-3.5 rounded-2xl bg-slate-900 border border-white/10 space-y-2">
-            <div class="text-xs uppercase font-bold text-slate-400">Exact Material Collected:</div>
-            <div class="font-mono text-xs text-blue-300">${c.collectedIssues}</div>
-            <div class="text-xs text-slate-400 pt-1 flex flex-wrap gap-4 border-t border-white/5">
-              <span><strong>Era:</strong> ${c.era}</span>
-              <span><strong>Genre:</strong> ${c.genre}</span>
-              <span><strong>Pages:</strong> ${c.pageCount}</span>
-              <span><strong>ISBN:</strong> ${c.isbn || 'TBA'}</span>
+              <div class="p-3.5 rounded-2xl bg-slate-900 border border-white/10 space-y-2">
+                <div class="text-xs uppercase font-bold text-slate-400">Exact Material Collected:</div>
+                <div class="font-mono text-xs text-blue-300">${c.collectedIssues}</div>
+                <div class="text-xs text-slate-400 pt-1 flex flex-wrap gap-4 border-t border-white/5">
+                  <span><strong>Era:</strong> ${c.era}</span>
+                  <span><strong>Genre:</strong> ${c.genre}</span>
+                  <span><strong>Pages:</strong> ${c.pageCount}</span>
+                  <span><strong>ISBN:</strong> ${c.isbn || 'TBA'}</span>
+                </div>
+              </div>
+
+              <!-- Where to Buy Links -->
+              <div class="p-3.5 rounded-2xl bg-slate-900/90 border border-white/10 space-y-2">
+                <div class="text-xs uppercase font-bold text-slate-400">Where to Buy ($9.99):</div>
+                ${buySection}
+              </div>
+
+              <p class="text-xs text-slate-300 leading-relaxed">${c.description}</p>
             </div>
           </div>
-
-          <!-- Where to Buy Links -->
-          <div class="p-3.5 rounded-2xl bg-slate-900/90 border border-white/10 space-y-2">
-            <div class="text-xs uppercase font-bold text-slate-400">Where to Buy ($9.99):</div>
-            ${buySection}
-          </div>
-
-          <p class="text-xs text-slate-300 leading-relaxed">${c.description}</p>
 
           <div class="pt-3 border-t border-white/10 flex items-center justify-between">
             <span class="text-xs text-slate-400">DC Compact Format: 5.5" × 8.5" Softcover ($9.99)</span>
