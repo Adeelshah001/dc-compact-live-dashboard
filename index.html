@@ -496,14 +496,25 @@
       const c = comicsData.find(item => item.id === id);
       if (!c) return;
       const links = getBuyLinks(c);
-      const buyBtns = [
+      const buyBtnsMobile = [
+        links.amazon ? `<a href="${links.amazon}" target="_blank" rel="noopener noreferrer" class="w-full text-center py-3 px-4 rounded-xl bg-amber-500/20 hover:bg-amber-500/30 border border-amber-500/40 text-amber-200 text-sm font-semibold transition">Amazon ↗</a>` : '',
+        links.prh ? `<a href="${links.prh}" target="_blank" rel="noopener noreferrer" class="w-full text-center py-3 px-4 rounded-xl bg-orange-500/20 hover:bg-orange-500/30 border border-orange-500/40 text-orange-200 text-sm font-semibold transition">Penguin Random House ↗</a>` : '',
+        links.indigo ? `<a href="${links.indigo}" target="_blank" rel="noopener noreferrer" class="w-full text-center py-3 px-4 rounded-xl bg-indigo-500/20 hover:bg-indigo-500/30 border border-indigo-500/40 text-indigo-200 text-sm font-semibold transition">Indigo (Chapters) ↗</a>` : '',
+        links.bookshop ? `<a href="${links.bookshop}" target="_blank" rel="noopener noreferrer" class="w-full text-center py-3 px-4 rounded-xl bg-teal-500/20 hover:bg-teal-500/30 border border-teal-500/40 text-teal-200 text-sm font-semibold transition">Bookshop.org ↗</a>` : ''
+      ].filter(Boolean).join('');
+
+      const buySectionMobile = buyBtnsMobile
+        ? `<div class="flex flex-col gap-2 pt-1">${buyBtnsMobile}</div>`
+        : `<div class="text-xs text-slate-500 pt-1">No purchase links currently verified for this title — check back soon.</div>`;
+
+      const buyBtnsDesktop = [
         links.amazon ? `<a href="${links.amazon}" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[120px] text-center py-2 px-3 rounded-xl bg-amber-500/20 hover:bg-amber-500/30 border border-amber-500/40 text-amber-200 text-xs font-semibold transition">Amazon ↗</a>` : '',
         links.prh ? `<a href="${links.prh}" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[120px] text-center py-2 px-3 rounded-xl bg-orange-500/20 hover:bg-orange-500/30 border border-orange-500/40 text-orange-200 text-xs font-semibold transition">Penguin Random House ↗</a>` : '',
         links.indigo ? `<a href="${links.indigo}" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[120px] text-center py-2 px-3 rounded-xl bg-indigo-500/20 hover:bg-indigo-500/30 border border-indigo-500/40 text-indigo-200 text-xs font-semibold transition">Indigo (Chapters) ↗</a>` : '',
         links.bookshop ? `<a href="${links.bookshop}" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[120px] text-center py-2 px-3 rounded-xl bg-teal-500/20 hover:bg-teal-500/30 border border-teal-500/40 text-teal-200 text-xs font-semibold transition">Bookshop.org ↗</a>` : ''
       ].filter(Boolean).join('');
-      const buySection = buyBtns
-        ? `<div class="flex flex-wrap gap-2 pt-1">${buyBtns}</div>`
+      const buySectionDesktop = buyBtnsDesktop
+        ? `<div class="flex flex-wrap gap-2 pt-1">${buyBtnsDesktop}</div>`
         : `<div class="text-xs text-slate-500 pt-1">No purchase links currently verified for this title — check back soon.</div>`;
       const modal = document.getElementById('detailModal');
       const content = document.getElementById('modalContent');
@@ -566,7 +577,8 @@
               <!-- Where to Buy Links -->
               <div class="p-3.5 rounded-2xl bg-slate-900/90 border border-white/10 space-y-2">
                 <div class="text-xs uppercase font-bold text-slate-400">Where to Buy ($9.99):</div>
-                ${buySection}
+                <div class="block md:hidden">${buySectionMobile}</div>
+                <div class="hidden md:block">${buySectionDesktop}</div>
               </div>
 
               <p class="text-xs text-slate-300 leading-relaxed">${c.description}</p>
