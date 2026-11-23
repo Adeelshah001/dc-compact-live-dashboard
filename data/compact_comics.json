@@ -36,7 +36,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "supergirl-woman-of-tomorrow",
@@ -75,7 +75,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "static-season-one",
@@ -114,7 +114,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "dceased",
@@ -153,7 +153,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "far-sector",
@@ -192,7 +192,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "mister-miracle",
@@ -231,7 +231,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "dark-nights-metal",
@@ -270,7 +270,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batman-white-knight",
@@ -309,7 +309,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "wonder-woman-year-one",
@@ -353,7 +353,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "wonder-woman-earth-one",
@@ -392,7 +392,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batgirl-of-burnside",
@@ -431,7 +431,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "injustice-gods-among-us-year-one",
@@ -470,7 +470,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "harley-quinn-wild-at-heart",
@@ -509,7 +509,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "justice-league-origin",
@@ -548,7 +548,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "wonder-woman-blood-and-guts",
@@ -587,7 +587,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batman-court-of-owls",
@@ -626,7 +626,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "american-vampire-book-one",
@@ -665,7 +665,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "the-flash-rebirth",
@@ -685,8 +685,8 @@
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=The+Flash%3A+Rebirth+DC+Compact+Comics",
-        "status": "unknown",
-        "reason": "bot-challenge"
+        "status": "available",
+        "reason": "results-found"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/811898/the-flash-rebirth-dc-compact-comics-edition-by-geoff-johns/9781799507697/",
@@ -704,7 +704,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batwoman-elegy",
@@ -743,7 +743,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "harley-quinn-gotham-city-sirens",
@@ -782,7 +782,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "superman-brainiac",
@@ -821,7 +821,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "joker",
@@ -860,7 +860,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "green-arrow-year-one",
@@ -899,7 +899,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batman-and-son",
@@ -938,7 +938,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batman-under-the-red-hood",
@@ -977,7 +977,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "all-star-superman",
@@ -1016,7 +1016,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "superman-secret-identity",
@@ -1055,7 +1055,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "justice-league-heroes-united",
@@ -1099,7 +1099,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "teen-titans-go-truth-justice-pizza",
@@ -1143,7 +1143,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "green-lantern-rebirth",
@@ -1182,7 +1182,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "catwoman-when-in-rome",
@@ -1221,7 +1221,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batman-harley-and-ivy",
@@ -1260,7 +1260,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "we3",
@@ -1299,7 +1299,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "dc-the-new-frontier",
@@ -1338,7 +1338,7 @@
         "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batgirl-year-one",
@@ -1377,7 +1377,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "superman-red-son",
@@ -1416,7 +1416,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "superman-batman-book-one",
@@ -1455,7 +1455,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "superman-birthright",
@@ -1494,7 +1494,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "fables-no-more-happily-ever-after",
@@ -1538,7 +1538,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "gotham-central",
@@ -1577,7 +1577,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "y-the-last-man-book-one",
@@ -1616,7 +1616,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batman-hush",
@@ -1655,7 +1655,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "superboys-legion",
@@ -1698,7 +1698,7 @@
         "reason": "hidden-by-owner"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "catwoman-trail-of-the-catwoman",
@@ -1737,7 +1737,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "jla-tower-of-babel",
@@ -1776,7 +1776,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "100-bullets-first-shot",
@@ -1815,7 +1815,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "the-authority-book-one",
@@ -1854,7 +1854,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "superman-adventures-man-of-tomorrow",
@@ -1893,7 +1893,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batman-the-long-halloween",
@@ -1932,7 +1932,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "kingdom-come",
@@ -1971,7 +1971,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "preacher-gone-to-texas",
@@ -2010,7 +2010,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "the-batman-adventures-dark-knight",
@@ -2049,7 +2049,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "john-constantine-hellblazer-dangerous-habits",
@@ -2088,7 +2088,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batman-gotham-by-gaslight",
@@ -2127,7 +2127,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batman-arkham-asylum",
@@ -2147,8 +2147,8 @@
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=Batman%3A+Arkham+Asylum+%E2%80%93+A+Serious+House+on+Serious+Earth+DC+Compact+Comics",
-        "status": "available",
-        "reason": "results-found"
+        "status": "unknown",
+        "reason": "bot-challenge"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/804224/batman-arkham-asylum-dc-compact-comics-by-grant-morrison/9781799506997/",
@@ -2166,7 +2166,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "superman-dc-compact-comics-box-set",
@@ -2211,7 +2211,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "superman-the-man-of-steel",
@@ -2250,7 +2250,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "dc-compact-comics-box-set",
@@ -2295,7 +2295,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batman-the-dark-knight-returns",
@@ -2334,7 +2334,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "watchmen",
@@ -2373,7 +2373,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "crisis-on-infinite-earths",
@@ -2412,7 +2412,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "swamp-thing-anatomy-lesson",
@@ -2451,7 +2451,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "v-for-vendetta",
@@ -2490,7 +2490,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "batman-89",
@@ -2534,7 +2534,7 @@
         "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   },
   {
     "id": "the-nice-house-on-the-lake",
@@ -2578,6 +2578,6 @@
         "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-22T14:26:56.280243Z"
+    "linksCheckedAt": "2026-11-23T17:48:35.371330Z"
   }
 ]
