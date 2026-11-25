@@ -23,7 +23,7 @@
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/809087/nightwing-leaping-into-the-light-dc-compact-comics-edition-by-tom-taylor/9781799507703/",
         "status": "available",
-        "reason": "canonical-kept"
+        "reason": "canonical-verified"
       },
       "indigo": {
         "url": "https://www.indigo.ca/products/nightwing-leaping-into-the-light-dc-compact-comics-edition",
@@ -36,7 +36,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "supergirl-woman-of-tomorrow",
@@ -62,7 +62,7 @@
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/798898/supergirl-woman-of-tomorrow-dc-compact-comics-by-tom-king/9781799506904/",
         "status": "available",
-        "reason": "canonical-kept"
+        "reason": "canonical-verified"
       },
       "indigo": {
         "url": "https://www.indigo.ca/products/supergirl-woman-of-tomorrow-dc-compact-comics",
@@ -75,7 +75,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "static-season-one",
@@ -101,7 +101,7 @@
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/773606/static-season-one-dc-compact-comics-edition-by-vita-ayala/9781799501541/",
         "status": "available",
-        "reason": "canonical-kept"
+        "reason": "canonical-verified"
       },
       "indigo": {
         "url": "https://www.indigo.ca/products/static-season-one-dc-compact-comics-edition",
@@ -114,7 +114,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "dceased",
@@ -140,7 +140,7 @@
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/773604/dceased-dc-compact-comics-edition-by-tom-taylor/9781799501633/",
         "status": "available",
-        "reason": "canonical-kept"
+        "reason": "canonical-verified"
       },
       "indigo": {
         "url": "https://www.indigo.ca/products/dceased-dc-compact-comics-edition",
@@ -153,7 +153,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "far-sector",
@@ -179,7 +179,7 @@
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/756695/far-sector-dc-compact-comics-edition-by-nk-jemisin/9781779527295/",
         "status": "available",
-        "reason": "canonical-kept"
+        "reason": "canonical-verified"
       },
       "indigo": {
         "url": "https://www.indigo.ca/products/far-sector-dc-compact-comics-edition",
@@ -192,7 +192,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "mister-miracle",
@@ -231,7 +231,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "dark-nights-metal",
@@ -270,7 +270,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batman-white-knight",
@@ -309,7 +309,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "wonder-woman-year-one",
@@ -353,7 +353,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "wonder-woman-earth-one",
@@ -392,7 +392,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batgirl-of-burnside",
@@ -421,7 +421,7 @@
         "reason": "canonical-verified"
       },
       "indigo": {
-        "url": "https://www.indigo.ca/products/batgirl-of-burnside-dc-compact-comics-edition",
+        "url": "https://www.indigo.ca/products/batgirl-tome-1-bienvenue-a-burnside",
         "status": "available",
         "reason": "title-match"
       },
@@ -431,7 +431,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "injustice-gods-among-us-year-one",
@@ -470,7 +470,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "harley-quinn-wild-at-heart",
@@ -509,7 +509,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "justice-league-origin",
@@ -548,7 +548,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "wonder-woman-blood-and-guts",
@@ -587,7 +587,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batman-court-of-owls",
@@ -626,7 +626,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "american-vampire-book-one",
@@ -665,7 +665,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "the-flash-rebirth",
@@ -704,7 +704,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batwoman-elegy",
@@ -743,7 +743,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "harley-quinn-gotham-city-sirens",
@@ -782,7 +782,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "superman-brainiac",
@@ -821,7 +821,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "joker",
@@ -860,7 +860,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "green-arrow-year-one",
@@ -899,7 +899,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batman-and-son",
@@ -938,7 +938,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batman-under-the-red-hood",
@@ -977,7 +977,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "all-star-superman",
@@ -1016,7 +1016,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "superman-secret-identity",
@@ -1055,7 +1055,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "justice-league-heroes-united",
@@ -1099,7 +1099,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "teen-titans-go-truth-justice-pizza",
@@ -1143,7 +1143,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "green-lantern-rebirth",
@@ -1182,7 +1182,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "catwoman-when-in-rome",
@@ -1221,7 +1221,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batman-harley-and-ivy",
@@ -1260,7 +1260,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "we3",
@@ -1299,7 +1299,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "dc-the-new-frontier",
@@ -1338,7 +1338,7 @@
         "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batgirl-year-one",
@@ -1377,7 +1377,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "superman-red-son",
@@ -1416,7 +1416,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "superman-batman-book-one",
@@ -1455,7 +1455,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "superman-birthright",
@@ -1494,7 +1494,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "fables-no-more-happily-ever-after",
@@ -1538,7 +1538,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "gotham-central",
@@ -1577,7 +1577,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "y-the-last-man-book-one",
@@ -1616,7 +1616,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batman-hush",
@@ -1655,7 +1655,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "superboys-legion",
@@ -1698,7 +1698,7 @@
         "reason": "hidden-by-owner"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "catwoman-trail-of-the-catwoman",
@@ -1737,7 +1737,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "jla-tower-of-babel",
@@ -1776,7 +1776,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "100-bullets-first-shot",
@@ -1796,8 +1796,8 @@
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=100+Bullets%3A+First+Shot%2C+Last+Call+DC+Compact+Comics",
-        "status": "unknown",
-        "reason": "bot-challenge"
+        "status": "available",
+        "reason": "results-found"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828515/100-bullets-first-shot-last-call-dc-compact-comics-edition-by-brian-azzarello/9781799510703/",
@@ -1815,7 +1815,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "the-authority-book-one",
@@ -1854,7 +1854,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "superman-adventures-man-of-tomorrow",
@@ -1893,7 +1893,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batman-the-long-halloween",
@@ -1932,7 +1932,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "kingdom-come",
@@ -1971,7 +1971,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "preacher-gone-to-texas",
@@ -2010,7 +2010,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "the-batman-adventures-dark-knight",
@@ -2039,7 +2039,7 @@
         "reason": "canonical-verified"
       },
       "indigo": {
-        "url": "https://www.indigo.ca/products/batman-the-dark-knight-dc-compact-comics-adventures",
+        "url": "https://www.indigo.ca/products/batman-the-dark-knight-returns-dc-compact-comics-edition",
         "status": "available",
         "reason": "title-match"
       },
@@ -2049,7 +2049,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "john-constantine-hellblazer-dangerous-habits",
@@ -2088,7 +2088,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batman-gotham-by-gaslight",
@@ -2127,7 +2127,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batman-arkham-asylum",
@@ -2166,7 +2166,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "superman-dc-compact-comics-box-set",
@@ -2211,7 +2211,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "superman-the-man-of-steel",
@@ -2250,7 +2250,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "dc-compact-comics-box-set",
@@ -2259,7 +2259,7 @@
     "originalIssueSpan": "1986–2005",
     "collectedIssues": "All-Star Superman; Batman: The Dark Knight Returns; Batman: The Long Halloween; DC: The New Frontier; Kingdom Come; Watchmen",
     "compactReleaseDate": "2026-11-24",
-    "status": "Upcoming",
+    "status": "Released",
     "creators": "Various",
     "genre": "Box Set",
     "pageCount": 1912,
@@ -2295,7 +2295,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batman-the-dark-knight-returns",
@@ -2334,7 +2334,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "watchmen",
@@ -2373,7 +2373,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "crisis-on-infinite-earths",
@@ -2393,8 +2393,8 @@
     "links": {
       "amazon": {
         "url": "https://www.amazon.com/s?k=Crisis+on+Infinite+Earths+DC+Compact+Comics",
-        "status": "unknown",
-        "reason": "bot-challenge"
+        "status": "available",
+        "reason": "results-found"
       },
       "prh": {
         "url": "https://www.penguinrandomhouse.com/books/828553/crisis-on-infinite-earths-dc-compact-comics-edition-by-marv-wolfman/9781799509608/",
@@ -2412,7 +2412,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "swamp-thing-anatomy-lesson",
@@ -2451,7 +2451,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "v-for-vendetta",
@@ -2490,7 +2490,7 @@
         "reason": "exact-kept"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "batman-89",
@@ -2534,7 +2534,7 @@
         "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   },
   {
     "id": "the-nice-house-on-the-lake",
@@ -2546,7 +2546,7 @@
     "status": "Upcoming",
     "creators": "James Tynion IV",
     "genre": "Unknown",
-    "pageCount": 184,
+    "pageCount": 320,
     "isbn": "9781799513735",
     "coverUrl": "https://images2.penguinrandomhouse.com/cover/9781799513735",
     "description": "Collects The Nice House on the Lake #1-6 in one pocketable, compact edition.",
@@ -2578,6 +2578,6 @@
         "reason": "unverifiable"
       }
     },
-    "linksCheckedAt": "2026-11-24T17:18:53.163589Z"
+    "linksCheckedAt": "2026-11-25T17:05:03.404335Z"
   }
 ]
